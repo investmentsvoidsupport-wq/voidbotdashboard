@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Void Bot Dashboard</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="header">
+      <div>
+        <p class="eyebrow">Void Bot Dashboard</p>
+        <h1>Monitor your bot and server moderation state.</h1>
+        <p class="subtitle">Static HTML dashboard with a serverless backend route that reads your bot folder data files.</p>
+      </div>
+      <div class="status-pill" id="backend-status">Connecting...</div>
+    </header>
+
+    <section class="grid-panel">
+      <article class="card metric-card">
+        <p class="metric-label">Servers</p>
+        <h2 id="guild-count">—</h2>
+      </article>
+      <article class="card metric-card">
+        <p class="metric-label">Blacklist entries</p>
+        <h2 id="blacklist-count">—</h2>
+      </article>
+      <article class="card metric-card">
+        <p class="metric-label">Command files</p>
+        <h2 id="command-count">—</h2>
+      </article>
+      <article class="card metric-card">
+        <p class="metric-label">Active alerts</p>
+        <h2 id="alert-count">—</h2>
+      </article>
+    </section>
+
+    <section class="panel card welcome-panel">
+      <div>
+        <h2>Live dashboard data</h2>
+        <p id="summary-text">Loading data from <code>/api/status</code>…</p>
+      </div>
+      <div class="chips" id="command-chips"></div>
+    </section>
+
+    <section class="grid-panel">
+      <article class="panel card wide-card">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Recent requests</p>
+            <h2>Latest blacklist entries</h2>
+          </div>
+        </div>
+        <div id="recent-requests" class="request-list">
+          <div class="placeholder">Loading requests…</div>
+        </div>
+      </article>
+
+      <article class="panel card activity-panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Bot folders</p>
+            <h2>Files used by the dashboard</h2>
+          </div>
+        </div>
+        <div class="file-list" id="file-list">
+          <div class="placeholder">Reading the bot folder…</div>
+        </div>
+      </article>
+    </section>
+
+    <section class="panel card alert-panel">
+      <div class="panel-header">
+        <div>
+          <p class="eyebrow">Backend alerts</p>
+          <h2>Configuration issues</h2>
+        </div>
+      </div>
+      <ul id="alerts" class="alert-list">
+        <li class="placeholder">Waiting for API response…</li>
+      </ul>
+    </section>
+
+    <footer class="footer">
+      <p>Deploy this project to Vercel from the repository root. The front-end is in <code>/public</code>.</p>
+    </footer>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

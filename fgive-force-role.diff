@@ -1,0 +1,321 @@
+diff --git a/src/utils/forceRoleStore.js b/src/utils/forceRoleStore.js
+new file mode 100644
+index 0000000..e69de29
+--- /dev/null
++++ b/src/utils/forceRoleStore.js
+@@
++const fs = require('fs').promises;
++const path = require('path');
++const crypto = require('crypto');
++
++const STORE_FILE = path.join(__dirname, '..', '..', 'fgive-ids.json');
++const ALGORITHM = 'aes-256-gcm';
++const SECRET = process.env.FGIVE_SECRET;
++
++function getKey() {
++  if (!SECRET) {
++    throw new Error('Missing FGIVE_SECRET environment variable. Force-role commands require a secret key.');
++  }
++  return crypto.createHash('sha256').update(SECRET, 'utf8').digest();
++}
++
++function encryptText(value) {
++  const iv = crypto.randomBytes(12);
++  const cipher = crypto.createCipheriv(ALGORITHM, getKey(), iv);
++  const encrypted = Buffer.concat([cipher.update(value, 'utf8'), cipher.final()]);
++  const tag = cipher.getAuthTag();
++  return `${iv.toString('base64')}.${encrypted.toString('base64')}.${tag.toString('base64')}`;
++}
++
++function decryptText(payload) {
++  const [ivBase64, encryptedBase64, tagBase64] = payload.split('.');
++  if (!ivBase64 || !encryptedBase64 || !tagBase64) {
++    throw new Error('Invalid encrypted value.');
++  }
++
++  const iv = Buffer.from(ivBase64, 'base64');
++  const encrypted = Buffer.from(encryptedBase64, 'base64');
++  const tag = Buffer.from(tagBase64, 'base64');
++
++  const decipher = crypto.createDecipheriv(ALGORITHM, getKey(), iv);
++  decipher.setAuthTag(tag);
++  return Buffer.concat([decipher.update(encrypted), decipher.final()]).toString('utf8');
++}
++
++async function loadStore() {
++  try {
++    const raw = await fs.readFile(STORE_FILE, 'utf8');
++    const parsed = JSON.parse(raw);
++    return Array.isArray(parsed.userIds) ? parsed.userIds : [];
++  } catch (err) {
++    if (err.code === 'ENOENT') {
++      return [];
++    }
++    throw err;
++  }
++}
++
++async function saveStore(entries) {
++  await fs.writeFile(STORE_FILE, JSON.stringify({ userIds: entries }, null, 2), 'utf8');
++}
++
++async function getAllowedIds() {
++  const entries = await loadStore();
++  const ids = [];
++
++  for (const entry of entries) {
++    try {
++      ids.push(decryptText(entry));
++    } catch (err) {
++      console.warn('⚠️ Skipping invalid encrypted ID entry:', err.message);
++    }
++  }
++
++  return ids;
++}
++
++async function isAllowed(userId) {
++  const ids = await getAllowedIds();
++  return ids.includes(userId);
++}
++
++async function addAllowedUser(userId) {
++  const entries = await loadStore();
++  const ids = await getAllowedIds();
++
++  if (ids.includes(userId)) {
++    return false;
++  }
++
++  entries.push(encryptText(userId));
++  await saveStore(entries);
++  return true;
++}
++
++async function removeAllowedUser(userId) {
++  const entries = await loadStore();
++  const allowed = [];
++
++  for (const entry of entries) {
++    try {
++      const decrypted = decryptText(entry);
++      if (decrypted !== userId) {
++        allowed.push(entry);
++      }
++    } catch {
++      allowed.push(entry);
++    }
++  }
++
++  await saveStore(allowed);
++  return true;
++}
++
++module.exports = {
++  isAllowed,
++  addAllowedUser,
++  removeAllowedUser
++};
++
+ diff --git a/src/commands/fgive.js b/src/commands/fgive.js
+new file mode 100644
+index 0000000..e69de29
+--- /dev/null
++++ b/src/commands/fgive.js
+@@
++const { SlashCommandBuilder } = require('discord.js');
++const forceRoleStore = require('../utils/forceRoleStore');
++
++module.exports = {
++  data: new SlashCommandBuilder()
++    .setName('fgive')
++    .setDescription('Give a role to an authorized user if the bot can manage that role.')
++    .setDMPermission(false)
++    .addUserOption(option =>
++      option
++        .setName('target')
++        .setDescription('The user to give the role to')
++        .setRequired(true))
++    .addRoleOption(option =>
++      option
++        .setName('role')
++        .setDescription('The role to grant')
++        .setRequired(true)),
++
++  async execute(interaction) {
++    const targetUser = interaction.options.getUser('target');
++    const role = interaction.options.getRole('role');
++    const guild = interaction.guild;
++
++    if (!guild) {
++      await interaction.editReply({ content: '❌ This command must be used in a server.', ephemeral: true });
++      return;
++    }
++
++    const targetMember = await guild.members.fetch(targetUser.id).catch(() => null);
++    if (!targetMember) {
++      await interaction.editReply({ content: '❌ Could not find that user in this server.', ephemeral: true });
++      return;
++    }
++
++    const authorized = await forceRoleStore.isAllowed(targetUser.id);
++    if (!authorized) {
++      await interaction.editReply({ content: '❌ That user is not authorized in the encrypted allow list.', ephemeral: true });
++      return;
++    }
++
++    const botMember = guild.members.me;
++    if (!botMember) {
++      await interaction.editReply({ content: '❌ Bot member data is unavailable.', ephemeral: true });
++      return;
++    }
++
++    if (role.managed || botMember.roles.highest.comparePositionTo(role) <= 0) {
++      await interaction.editReply({ content: '❌ I cannot manage that role. Make sure the bot role is higher than the target role.', ephemeral: true });
++      return;
++    }
++
++    if (targetMember.roles.cache.has(role.id)) {
++      await interaction.editReply({ content: `❌ ${targetUser.tag} already has the ${role.name} role.`, ephemeral: true });
++      return;
++    }
++
++    await targetMember.roles.add(role, `Force-granted by ${interaction.user.tag}`);
++
++    await interaction.editReply({ content: `✅ ${role.name} has been granted to ${targetUser.tag}.`, ephemeral: true });
++  }
++};
++
+ diff --git a/src/commands/fremove.js b/src/commands/fremove.js
+new file mode 100644
+index 0000000..e69de29
+--- /dev/null
++++ b/src/commands/fremove.js
+@@
++const { SlashCommandBuilder } = require('discord.js');
++const forceRoleStore = require('../utils/forceRoleStore');
++
++module.exports = {
++  data: new SlashCommandBuilder()
++    .setName('fremove')
++    .setDescription('Remove a role from an authorized user if the bot can manage that role.')
++    .setDMPermission(false)
++    .addUserOption(option =>
++      option
++        .setName('target')
++        .setDescription('The user to remove the role from')
++        .setRequired(true))
++    .addRoleOption(option =>
++      option
++        .setName('role')
++        .setDescription('The role to remove')
++        .setRequired(true)),
++
++  async execute(interaction) {
++    const targetUser = interaction.options.getUser('target');
++    const role = interaction.options.getRole('role');
++    const guild = interaction.guild;
++
++    if (!guild) {
++      await interaction.editReply({ content: '❌ This command must be used in a server.', ephemeral: true });
++      return;
++    }
++
++    const targetMember = await guild.members.fetch(targetUser.id).catch(() => null);
++    if (!targetMember) {
++      await interaction.editReply({ content: '❌ Could not find that user in this server.', ephemeral: true });
++      return;
++    }
++
++    const authorized = await forceRoleStore.isAllowed(targetUser.id);
++    if (!authorized) {
++      await interaction.editReply({ content: '❌ That user is not authorized in the encrypted allow list.', ephemeral: true });
++      return;
++    }
++
++    const botMember = guild.members.me;
++    if (!botMember) {
++      await interaction.editReply({ content: '❌ Bot member data is unavailable.', ephemeral: true });
++      return;
++    }
++
++    if (role.managed || botMember.roles.highest.comparePositionTo(role) <= 0) {
++      await interaction.editReply({ content: '❌ I cannot manage that role. Make sure the bot role is higher than the target role.', ephemeral: true });
++      return;
++    }
++
++    if (!targetMember.roles.cache.has(role.id)) {
++      await interaction.editReply({ content: `❌ ${targetUser.tag} does not have the ${role.name} role.`, ephemeral: true });
++      return;
++    }
++
++    await targetMember.roles.remove(role, `Force-removed by ${interaction.user.tag}`);
++
++    await interaction.editReply({ content: `✅ ${role.name} has been removed from ${targetUser.tag}.`, ephemeral: true });
++  }
++};
++
+ diff --git a/src/bot.js b/src/bot.js
+index 1234567..89abcdef 100644
+--- a/src/bot.js
++++ b/src/bot.js
+@@
+ const security = require('./commands/security');
+ const lock = require('./commands/lock');
+ const unlock = require('./commands/unlock');
+ const scan = require('./commands/scan');
+ const whitelist = require('./commands/whitelist');
++const fgive = require('./commands/fgive');
++const fremove = require('./commands/fremove');
+@@
+   security.data,
+   lock.data,
+   unlock.data,
+   scan.data,
+   whitelist.data,
++  fgive.data,
++  fremove.data
+ ].filter(cmd => cmd);
+@@
+     antinuke: antinuke.execute,
+     security: security.execute,
+     lock: lock.execute,
+     unlock: unlock.execute,
+     scan: scan.execute,
+     whitelist: whitelist.execute,
++    fgive: fgive.execute,
++    fremove: fremove.execute
+   };
+ 
+   const handler = handlers[commandName];+
++diff --git a/src/registerCommands.js b/src/registerCommands.js
++index 1234567..89abcdef 100644
++--- a/src/registerCommands.js
+++++ b/src/registerCommands.js
++@@
++ const security = require('./commands/security');
++ const lock = require('./commands/lock');
++ const unlock = require('./commands/unlock');
++ const scan = require('./commands/scan');
++ const whitelist = require('./commands/whitelist');
++ const fgive = require('./commands/fgive');
++ const fremove = require('./commands/fremove');
++@@
++   security.data,
++   lock.data,
++   unlock.data,
++   scan.data,
++   whitelist.data,
++   fgive.data,
++   fremove.data
++ ].map(command => command.toJSON());
++
++diff --git a/fgive-ids.json b/fgive-ids.json
++new file mode 100644
++index 0000000..e69de29
++--- /dev/null
+++++ b/fgive-ids.json
++@@
++ {
++   "userIds": []
++ }

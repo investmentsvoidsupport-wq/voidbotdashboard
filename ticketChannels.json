@@ -1,0 +1,5082 @@
+{
+  "1483354793899589725": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "roster",
+    "createdAt": "2026-03-17T06:42:22.501Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "What is ya age?": ""
+    }
+  },
+  "1483359026640322580": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Roster",
+    "createdAt": "2026-03-17T06:59:11.636Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "age batao": "12 hai bhai"
+    }
+  },
+  "1483359545752420454": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Business",
+    "createdAt": "2026-03-17T07:01:15.421Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "bolo bhai": "sdjlanQWM;"
+    }
+  },
+  "1483425133011009597": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "r",
+    "createdAt": "2026-03-17T11:21:52.716Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "hiiiii": "asdasd"
+    }
+  },
+  "1483433637574869124": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "r",
+    "createdAt": "2026-03-17T11:55:40.174Z",
+    "closed": true,
+    "claimedBy": "1258666688031756370",
+    "answers": {
+      "hiiiii": "asd"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483435240218427593": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "r",
+    "createdAt": "2026-03-17T12:02:02.381Z",
+    "closed": true,
+    "claimedBy": "1258666688031756370",
+    "answers": {
+      "hiiiii": "fsv"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483435760395878492": {
+    "guildId": "1483314155539923177",
+    "openerId": "1258666688031756370",
+    "type": "r",
+    "createdAt": "2026-03-17T12:04:06.429Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "hiiiii": "bhaze"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483443366468259952": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "r",
+    "createdAt": "2026-03-17T12:34:19.716Z",
+    "closed": true,
+    "claimedBy": "1258666688031756370",
+    "answers": {
+      "hiiiii": "ujgv"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483444892226158684": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "r",
+    "createdAt": "2026-03-17T12:40:23.574Z",
+    "closed": true,
+    "claimedBy": "1258666688031756370",
+    "answers": {
+      "hiiiii": "A5R"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483445320158416906": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "r",
+    "createdAt": "2026-03-17T12:42:05.743Z",
+    "closed": true,
+    "claimedBy": "769554592223854602",
+    "answers": {
+      "hiiiii": "sdfsd"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483449619873660938": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "r",
+    "createdAt": "2026-03-17T12:59:10.740Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "hiiiii": "sdaf"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483450117565579354": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "r",
+    "createdAt": "2026-03-17T13:01:09.345Z",
+    "closed": false,
+    "claimedBy": "769554592223854602",
+    "answers": {
+      "hiiiii": "DAFA"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483694457441488966": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Roster",
+    "createdAt": "2026-03-18T05:12:04.835Z",
+    "closed": false,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "How Old are you?": "17 years old"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483694672885841922": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Business",
+    "createdAt": "2026-03-18T05:12:56.304Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "what do you want": "sdf"
+    },
+    "pingRoles": []
+  },
+  "1483694726325469288": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Staff",
+    "createdAt": "2026-03-18T05:13:08.968Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Please send the link of your resume": "no"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483696353485000756": {
+    "guildId": "1483314155539923177",
+    "openerId": "1447762659239006308",
+    "type": "Roster",
+    "createdAt": "2026-03-18T05:19:36.896Z",
+    "closed": false,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "How Old are you?": "18"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483696409130700851": {
+    "guildId": "1483314155539923177",
+    "openerId": "1447762659239006308",
+    "type": "Staff",
+    "createdAt": "2026-03-18T05:19:50.190Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Please send the link of your resume": "Dushevdbd"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483696453997170823": {
+    "guildId": "1483314155539923177",
+    "openerId": "1447762659239006308",
+    "type": "Business",
+    "createdAt": "2026-03-18T05:20:00.938Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "what do you want": "Sponsor"
+    },
+    "pingRoles": []
+  },
+  "1483699351313449111": {
+    "guildId": "1483314155539923177",
+    "openerId": "1447762659239006308",
+    "type": "Staff",
+    "createdAt": "2026-03-18T05:31:31.758Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Please send the link of your resume": "Ask Frank lol"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483737214520393778": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Staff",
+    "createdAt": "2026-03-18T08:01:58.835Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Are you new to Moderation?": "No",
+      "Please send the link of your resume, if you have one!": "asd"
+    },
+    "pingRoles": []
+  },
+  "1483737296711712870": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Help",
+    "createdAt": "2026-03-18T08:02:18.545Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": []
+  },
+  "1483746733568688168": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Staff",
+    "createdAt": "2026-03-18T08:39:48.339Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Are you new to Moderation?": "asd",
+      "Please send the link of your resume, if you have one!": "asd"
+    },
+    "pingRoles": []
+  },
+  "1483758168302682142": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Roster",
+    "createdAt": "2026-03-18T09:25:14.682Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Hi": "sdvszd",
+      "ad": "sdfsdf"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483783267910946868": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "ros",
+    "createdAt": "2026-03-18T11:04:58.788Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483789733464117259": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Business",
+    "createdAt": "2026-03-18T11:30:40.278Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Why Void?": "idk"
+    },
+    "pingRoles": [
+      "1483724916170952876"
+    ]
+  },
+  "1483799437011845252": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Roster",
+    "createdAt": "2026-03-18T12:09:13.756Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {},
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483799977015771248": {
+    "guildId": "1483314155539923177",
+    "openerId": "1258666688031756370",
+    "type": "Roster",
+    "createdAt": "2026-03-18T12:11:22.388Z",
+    "closed": true,
+    "claimedBy": "1258666688031756370",
+    "answers": {},
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483800291546763354": {
+    "guildId": "1483314155539923177",
+    "openerId": "1258666688031756370",
+    "type": "Roster",
+    "createdAt": "2026-03-18T12:12:37.372Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {},
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483800466696704143": {
+    "guildId": "1483314155539923177",
+    "openerId": "1258666688031756370",
+    "type": "Staff",
+    "createdAt": "2026-03-18T12:13:19.283Z",
+    "closed": false,
+    "claimedBy": "1385881439102439484",
+    "answers": {},
+    "pingRoles": [
+      "1483724872248201278"
+    ]
+  },
+  "1483806660865560636": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Roster",
+    "createdAt": "2026-03-18T12:37:55.914Z",
+    "closed": false,
+    "claimedBy": "1385881439102439484",
+    "answers": {},
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483834483043205320": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Roster",
+    "createdAt": "2026-03-18T14:28:29.317Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Whats your age?": "Hi i am 17 yo"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483858323890769953": {
+    "guildId": "1483314155539923177",
+    "openerId": "804402646836445185",
+    "type": "Roster",
+    "createdAt": "2026-03-18T16:03:13.459Z",
+    "closed": false,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Whats your age?": "67"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483858488722718892": {
+    "guildId": "1483314155539923177",
+    "openerId": "804402646836445185",
+    "type": "Staff",
+    "createdAt": "2026-03-18T16:03:52.672Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Link your resume": "What dat"
+    },
+    "pingRoles": [
+      "1483724872248201278"
+    ]
+  },
+  "1483864383426789468": {
+    "guildId": "1483314155539923177",
+    "openerId": "769554592223854602",
+    "type": "Business",
+    "createdAt": "2026-03-18T16:27:18.014Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Send your portfolio": "no"
+    },
+    "pingRoles": [
+      "1483724916170952876"
+    ]
+  },
+  "1483864551001952443": {
+    "guildId": "1483314155539923177",
+    "openerId": "769554592223854602",
+    "type": "Staff",
+    "createdAt": "2026-03-18T16:27:57.938Z",
+    "closed": false,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Link your resume": "s"
+    },
+    "pingRoles": [
+      "1483724872248201278"
+    ]
+  },
+  "1483867878359961750": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Roster",
+    "createdAt": "2026-03-18T16:41:11.255Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "test"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483868071524302993": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Staff",
+    "createdAt": "2026-03-18T16:41:57.374Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Link your resume": "sdf"
+    },
+    "pingRoles": [
+      "1483724872248201278"
+    ]
+  },
+  "1483868830617829599": {
+    "guildId": "1483314155539923177",
+    "openerId": "1334134450849579112",
+    "type": "Roster",
+    "createdAt": "2026-03-18T16:44:58.262Z",
+    "closed": false,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Whats your age?": "11"
+    },
+    "pingRoles": [
+      "1483409286926176316"
+    ]
+  },
+  "1483887106249195530": {
+    "guildId": "1351362266246680626",
+    "openerId": "1261741206950383636",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T17:57:35.512Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": []
+  },
+  "1483887114121773178": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T17:57:37.514Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": []
+  },
+  "1483887121952538768": {
+    "guildId": "1351362266246680626",
+    "openerId": "1015976575981858826",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T17:57:39.470Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": []
+  },
+  "1483888025611145349": {
+    "guildId": "1351362266246680626",
+    "openerId": "1441708417898250251",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T18:01:14.665Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "How old are you?": "16",
+      "What roster are you joining as?": "VOiD grinder"
+    },
+    "pingRoles": []
+  },
+  "1483889184597868686": {
+    "guildId": "1351362266246680626",
+    "openerId": "1380108789784641630",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T18:05:50.991Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "I'm trying to join as a pro creative roster"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483890125497827460": {
+    "guildId": "1351362266246680626",
+    "openerId": "1261741206950383636",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T18:09:35.519Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "How old are you?": "I am 14 years old",
+      "What roster are you joining as?": "Comp or Creative"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483890817314586724": {
+    "guildId": "1351362266246680626",
+    "openerId": "1015976575981858826",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T18:12:20.407Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "How old are you?": "16",
+      "What roster are you joining as?": "Roles back"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483891265253802085": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T18:14:07.193Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "ds",
+      "How old are you?": "sd",
+      "Link your resume if you have one": "f"
+    },
+    "pingRoles": []
+  },
+  "1483892245181497395": {
+    "guildId": "1351362266246680626",
+    "openerId": "1269323619884859483",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T18:18:00.738Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "Creative roaster"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463351749371887649"
+    ]
+  },
+  "1483895423809880286": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T18:30:38.602Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "sd",
+      "How old are you?": "dsf",
+      "Link your resume if you have one": "sdf"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483898699863036065": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Business Queries",
+    "createdAt": "2026-03-18T18:43:39.810Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats the reason to open this?": "test"
+    },
+    "pingRoles": [
+      "1453854535746588855",
+      "1458223300634349844"
+    ]
+  },
+  "1483899238164467722": {
+    "guildId": "1351362266246680626",
+    "openerId": "1270120723838537803",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T18:45:47.982Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "Creative"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483901820219822123": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T18:56:03.597Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "17",
+      "What roster are you joining as?": "test"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483902380029509792": {
+    "guildId": "1351362266246680626",
+    "openerId": "1270120723838537803",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T18:58:17.080Z",
+    "closed": true,
+    "claimedBy": "1471986527625281616",
+    "answers": {
+      "How old are you?": "14",
+      "What roster are you joining as?": "Creative Roster"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483902428762865815": {
+    "guildId": "1351362266246680626",
+    "openerId": "1339081114492469248",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T18:58:28.700Z",
+    "closed": true,
+    "claimedBy": "1379870737443328070",
+    "answers": {
+      "How old are you?": "I am 13",
+      "What roster are you joining as?": "creative roster"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483904130261975361": {
+    "guildId": "1351362266246680626",
+    "openerId": "1128067079065571429",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:05:14.470Z",
+    "closed": true,
+    "claimedBy": "1471986527625281616",
+    "answers": {
+      "How old are you?": "17",
+      "What roster are you joining as?": "Academy"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483904568503959564": {
+    "guildId": "1351362266246680626",
+    "openerId": "1180704753173418004",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:06:58.830Z",
+    "closed": true,
+    "claimedBy": "1180704753173418004",
+    "answers": {
+      "How old are you?": "I am 14",
+      "What roster are you joining as?": "Grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483904912042496152": {
+    "guildId": "1351362266246680626",
+    "openerId": "1379616857232769168",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:08:20.781Z",
+    "closed": true,
+    "claimedBy": "1471986527625281616",
+    "answers": {
+      "How old are you?": "I am 13 years old",
+      "What roster are you joining as?": "Void roster"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483905548352229619": {
+    "guildId": "1351362266246680626",
+    "openerId": "1379616857232769168",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:10:52.373Z",
+    "closed": true,
+    "claimedBy": "1015976575981858826",
+    "answers": {
+      "How old are you?": "I am 13 years old",
+      "What roster are you joining as?": "Void grinder!"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483905853622059089": {
+    "guildId": "1351362266246680626",
+    "openerId": "1266276888779689995",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:12:05.466Z",
+    "closed": true,
+    "claimedBy": "1084180646739587102",
+    "answers": {
+      "How old are you?": "I am 13",
+      "What roster are you joining as?": "Creative"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483905871330283745": {
+    "guildId": "1351362266246680626",
+    "openerId": "1334134450849579112",
+    "type": "Business Queries",
+    "createdAt": "2026-03-18T19:12:09.579Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats the reason to open this?": "test"
+    },
+    "pingRoles": [
+      "1453854535746588855",
+      "1458223300634349844"
+    ]
+  },
+  "1483906127346536640": {
+    "guildId": "1351362266246680626",
+    "openerId": "1453865280454529136",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:13:10.644Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "Academy"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483907469414629487": {
+    "guildId": "1351362266246680626",
+    "openerId": "1235356965971169441",
+    "type": "Business Queries",
+    "createdAt": "2026-03-18T19:18:32.221Z",
+    "closed": true,
+    "claimedBy": "1334134450849579112",
+    "answers": {
+      "Whats the reason to open this?": "Partnership"
+    },
+    "pingRoles": [
+      "1453854535746588855",
+      "1458223300634349844"
+    ]
+  },
+  "1483907527258411181": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:18:44.244Z",
+    "closed": true,
+    "claimedBy": "1471986527625281616",
+    "answers": {
+      "How old are you?": "Test",
+      "What roster are you joining as?": "Test"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483907892561313913": {
+    "guildId": "1351362266246680626",
+    "openerId": "1339081114492469248",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:20:11.283Z",
+    "closed": true,
+    "claimedBy": "1471986527625281616",
+    "answers": {
+      "How old are you?": "I am 13",
+      "What roster are you joining as?": "I want to join creative roster please"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483910606892302387": {
+    "guildId": "1351362266246680626",
+    "openerId": "1266045068456755201",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:30:58.597Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "14",
+      "What roster are you joining as?": "Content"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483914113129255072": {
+    "guildId": "1351362266246680626",
+    "openerId": "1478877144862949477",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:44:54.358Z",
+    "closed": true,
+    "claimedBy": "1471986527625281616",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "Void roster"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483914675531022478": {
+    "guildId": "1351362266246680626",
+    "openerId": "1258666688031756370",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:47:08.433Z",
+    "closed": true,
+    "claimedBy": "1471986527625281616",
+    "answers": {
+      "How old are you?": "17",
+      "What roster are you joining as?": "test"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483915127492186142": {
+    "guildId": "1351362266246680626",
+    "openerId": "1258666688031756370",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:48:56.210Z",
+    "closed": true,
+    "claimedBy": "1471986527625281616",
+    "answers": {
+      "How old are you?": "test",
+      "What roster are you joining as?": "test"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483917733463851075": {
+    "guildId": "1351362266246680626",
+    "openerId": "1441708417898250251",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:59:17.535Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "16",
+      "What roster are you joining as?": "VOID GRIND"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483917812627144825": {
+    "guildId": "1351362266246680626",
+    "openerId": "1283336018115952772",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T19:59:36.437Z",
+    "closed": true,
+    "claimedBy": "1471986527625281616",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "Anything I am div 4 840 pr"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483918358226272459": {
+    "guildId": "1351362266246680626",
+    "openerId": "1350212049975902379",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T20:01:46.517Z",
+    "closed": true,
+    "claimedBy": "1471986527625281616",
+    "answers": {
+      "How old are you?": "14",
+      "What roster are you joining as?": "Grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483918498387460196": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T20:02:19.939Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "asd",
+      "How old are you?": "asd",
+      "Link your resume if you have one": "asd"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483918771834978465": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T20:03:25.218Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "What position are you applying for?": "das",
+      "How old are you?": "asd",
+      "Link your resume if you have one": "das"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483920412567146719": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T20:09:56.441Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "What position are you applying for?": "asd",
+      "How old are you?": "asd",
+      "Link your resume if you have one": "as"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483921618937053205": {
+    "guildId": "1351362266246680626",
+    "openerId": "1402762321494937702",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T20:14:43.944Z",
+    "closed": false,
+    "claimedBy": "1346637261189419148",
+    "answers": {
+      "What position are you applying for?": "member",
+      "How old are you?": "i am 13",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483922758516871370": {
+    "guildId": "1351362266246680626",
+    "openerId": "429372266329931777",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T20:19:15.666Z",
+    "closed": true,
+    "claimedBy": "1471986527625281616",
+    "answers": {
+      "How old are you?": "20",
+      "What roster are you joining as?": "Content/Player"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483929313542799541": {
+    "guildId": "1351362266246680626",
+    "openerId": "1380108789784641630",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T20:45:18.963Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "I'm trying to join the pro creative roster"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483930906757431400": {
+    "guildId": "1351362266246680626",
+    "openerId": "1287758362196578306",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T20:51:38.208Z",
+    "closed": true,
+    "claimedBy": "1378458353130405999",
+    "answers": {
+      "How old are you?": "I am 14 years old",
+      "What roster are you joining as?": "Academy competitive player"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483930922482139280": {
+    "guildId": "1351362266246680626",
+    "openerId": "1442199312959275008",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T20:51:42.136Z",
+    "closed": false,
+    "claimedBy": "1346637261189419148",
+    "answers": {
+      "What position are you applying for?": "Lfd",
+      "How old are you?": "12",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483932094777397248": {
+    "guildId": "1351362266246680626",
+    "openerId": "1334249258777444417",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T20:56:22.002Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "I am 11 old",
+      "What roster are you joining as?": "Idk"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483933402619969569": {
+    "guildId": "1351362266246680626",
+    "openerId": "1452378706101272760",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:01:33.493Z",
+    "closed": true,
+    "claimedBy": "1048590283530571798",
+    "answers": {
+      "How old are you?": "14",
+      "What roster are you joining as?": "Void grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483934404895309925": {
+    "guildId": "1351362266246680626",
+    "openerId": "1457200545474543812",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T21:05:32.310Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "staff access",
+      "How old are you?": "14",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483934787499462817": {
+    "guildId": "1351362266246680626",
+    "openerId": "1457200545474543812",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T21:07:03.534Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "staff access",
+      "How old are you?": "14",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483935559360581934": {
+    "guildId": "1351362266246680626",
+    "openerId": "1313994062998540390",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T21:10:07.486Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "Moderator",
+      "How old are you?": "13",
+      "Link your resume if you have one": "No"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483935825791029248": {
+    "guildId": "1351362266246680626",
+    "openerId": "1282825847962734714",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:11:10.987Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "I am 17 years old",
+      "What roster are you joining as?": "Academy"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483937140545949756": {
+    "guildId": "1351362266246680626",
+    "openerId": "1482103323065581610",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:16:24.613Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": ""
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483938467359752422": {
+    "guildId": "1351362266246680626",
+    "openerId": "1421274000792752280",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:21:40.866Z",
+    "closed": true,
+    "claimedBy": "1333141939184336908",
+    "answers": {
+      "How old are you?": "15",
+      "What roster are you joining as?": "grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483938993681731604": {
+    "guildId": "1351362266246680626",
+    "openerId": "741769864238071838",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:23:46.539Z",
+    "closed": true,
+    "claimedBy": "709131423214207068",
+    "answers": {
+      "How old are you?": "15",
+      "What roster are you joining as?": "academy"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483939035440484575": {
+    "guildId": "1351362266246680626",
+    "openerId": "1188460012838846535",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:23:56.458Z",
+    "closed": true,
+    "claimedBy": "1180704753173418004",
+    "answers": {
+      "How old are you?": "I am 14 turning 15 (this year)",
+      "What roster are you joining as?": "Academy"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483939241120632903": {
+    "guildId": "1351362266246680626",
+    "openerId": "1334249258777444417",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:24:45.248Z",
+    "closed": true,
+    "claimedBy": "709131423214207068",
+    "answers": {
+      "How old are you?": "I am 13 old",
+      "What roster are you joining as?": "Idk"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483939392749047888": {
+    "guildId": "1351362266246680626",
+    "openerId": "1398505661679271996",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T21:25:21.484Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "Helpful",
+      "How old are you?": "I am 12 old",
+      "Link your resume if you have one": "Zaybug_99999"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483939642968506459": {
+    "guildId": "1351362266246680626",
+    "openerId": "1282825847962734714",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:26:21.090Z",
+    "closed": true,
+    "claimedBy": "709131423214207068",
+    "answers": {
+      "How old are you?": "I am 17 years old",
+      "What roster are you joining as?": "Academy"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483940488083017789": {
+    "guildId": "1351362266246680626",
+    "openerId": "1367309645718229012",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:29:42.623Z",
+    "closed": true,
+    "claimedBy": "709131423214207068",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "palyer"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483944175362773144": {
+    "guildId": "1351362266246680626",
+    "openerId": "1188460012838846535",
+    "type": "Business Queries",
+    "createdAt": "2026-03-18T21:44:21.789Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats the reason to open this?": "Hey i did NOT want to make any business, its just that it doesnt work to make a new ticket for rosters."
+    },
+    "pingRoles": [
+      "1453854535746588855",
+      "1458223300634349844"
+    ]
+  },
+  "1483944314592825467": {
+    "guildId": "1351362266246680626",
+    "openerId": "1477440982508240967",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:44:54.904Z",
+    "closed": true,
+    "claimedBy": "1015976575981858826",
+    "answers": {
+      "How old are you?": "I am 14 years old",
+      "What roster are you joining as?": "Academy"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483944479982489775": {
+    "guildId": "1351362266246680626",
+    "openerId": "1188460012838846535",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:45:34.381Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "I am 14",
+      "What roster are you joining as?": "Academy"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483945494215655434": {
+    "guildId": "1351362266246680626",
+    "openerId": "1142885566053109950",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:49:36.202Z",
+    "closed": true,
+    "claimedBy": "1180704753173418004",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "Void grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483945621776896110": {
+    "guildId": "1351362266246680626",
+    "openerId": "921716931193634816",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:50:06.691Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "14",
+      "What roster are you joining as?": "Acadmy creative"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483946980622471390": {
+    "guildId": "1351362266246680626",
+    "openerId": "1302158965580365866",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T21:55:30.510Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "Competitive"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483947266325614622": {
+    "guildId": "1351362266246680626",
+    "openerId": "1436496469958983800",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T21:56:38.710Z",
+    "closed": true,
+    "claimedBy": "1346637261189419148",
+    "answers": {
+      "What position are you applying for?": "Mod",
+      "How old are you?": "I am 14 years old",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483948984342155274": {
+    "guildId": "1351362266246680626",
+    "openerId": "1287758362196578306",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T22:03:28.338Z",
+    "closed": true,
+    "claimedBy": "1346637261189419148",
+    "answers": {
+      "What position are you applying for?": "Moderator",
+      "How old are you?": "I am 14 years old",
+      "Link your resume if you have one": "I don’t have a link for resume because im applying for moderator"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483949278064939121": {
+    "guildId": "1351362266246680626",
+    "openerId": "1398505661679271996",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T22:04:38.238Z",
+    "closed": true,
+    "claimedBy": "1346637261189419148",
+    "answers": {
+      "What position are you applying for?": "Helpfull and if you need a duo",
+      "How old are you?": "I am 14 years old",
+      "Link your resume if you have one": "Zaybug_99999"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483950214879645717": {
+    "guildId": "1351362266246680626",
+    "openerId": "1460392099940798537",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T22:08:21.582Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "admin",
+      "How old are you?": "i am 15 years old",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483950240829804565": {
+    "guildId": "1351362266246680626",
+    "openerId": "1404921303164518472",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T22:08:27.770Z",
+    "closed": true,
+    "claimedBy": "1387910075137396878",
+    "answers": {
+      "How old are you?": "I am 14 old",
+      "What roster are you joining as?": "Academy"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483952295598100641": {
+    "guildId": "1351362266246680626",
+    "openerId": "1477041192007893155",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T22:16:37.661Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "I am 13 old",
+      "What roster are you joining as?": "Void Grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483953000337899691": {
+    "guildId": "1351362266246680626",
+    "openerId": "811658121361096722",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T22:19:25.704Z",
+    "closed": true,
+    "claimedBy": "709131423214207068",
+    "answers": {
+      "How old are you?": "i am 14 years old",
+      "What roster are you joining as?": "competitive roster"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483953411106930778": {
+    "guildId": "1351362266246680626",
+    "openerId": "1319374842998554644",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T22:21:03.671Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "void grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483956220330246165": {
+    "guildId": "1351362266246680626",
+    "openerId": "1477041192007893155",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T22:32:13.449Z",
+    "closed": true,
+    "claimedBy": "1387910075137396878",
+    "answers": {
+      "How old are you?": "I am 13 old",
+      "What roster are you joining as?": "Void Grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483957499379056660": {
+    "guildId": "1351362266246680626",
+    "openerId": "1481816807202357330",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T22:37:18.324Z",
+    "closed": true,
+    "claimedBy": "1333141939184336908",
+    "answers": {
+      "How old are you?": "22",
+      "What roster are you joining as?": "Play fortnite"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483958428798943332": {
+    "guildId": "1351362266246680626",
+    "openerId": "1444432584263209113",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T22:41:00.006Z",
+    "closed": true,
+    "claimedBy": "1333141939184336908",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483958566732693514": {
+    "guildId": "1351362266246680626",
+    "openerId": "621360394606346251",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T22:41:34.688Z",
+    "closed": true,
+    "claimedBy": "1333141939184336908",
+    "answers": {
+      "How old are you?": "21",
+      "What roster are you joining as?": "Pro Creative"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483960855946068210": {
+    "guildId": "1351362266246680626",
+    "openerId": "1348409317728063508",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T22:50:38.749Z",
+    "closed": true,
+    "claimedBy": "1387910075137396878",
+    "answers": {
+      "How old are you?": "Im 15",
+      "What roster are you joining as?": "Academy"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483962051129905313": {
+    "guildId": "1351362266246680626",
+    "openerId": "840200792388141096",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T22:55:23.650Z",
+    "closed": true,
+    "claimedBy": "1387910075137396878",
+    "answers": {
+      "How old are you?": "22",
+      "What roster are you joining as?": ""
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483963170736308254": {
+    "guildId": "1351362266246680626",
+    "openerId": "735482693860458547",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T22:59:50.743Z",
+    "closed": true,
+    "claimedBy": "709131423214207068",
+    "answers": {
+      "How old are you?": "I am 14 years old",
+      "What roster are you joining as?": "Grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483964092283752611": {
+    "guildId": "1351362266246680626",
+    "openerId": "1390387093641105480",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T23:03:31.240Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "Human Resources",
+      "How old are you?": "I am 11 years old",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483964540751184028": {
+    "guildId": "1351362266246680626",
+    "openerId": "1348409317728063508",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T23:05:17.386Z",
+    "closed": true,
+    "claimedBy": "1346637261189419148",
+    "answers": {
+      "What position are you applying for?": "Staff",
+      "How old are you?": "15",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483964955072921640": {
+    "guildId": "1351362266246680626",
+    "openerId": "1387910075137396878",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T23:06:56.057Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "How old are you?": "14",
+      "What roster are you joining as?": "Grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483967875021537450": {
+    "guildId": "1351362266246680626",
+    "openerId": "1348409317728063508",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T23:18:32.366Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "Staff",
+      "How old are you?": "15",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483967906764030144": {
+    "guildId": "1351362266246680626",
+    "openerId": "1339081114492469248",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T23:18:39.972Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "How old are you?": "i am 13",
+      "What roster are you joining as?": "jr content creator"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483969409625231480": {
+    "guildId": "1351362266246680626",
+    "openerId": "1348409317728063508",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T23:24:38.229Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "Grinder",
+      "How old are you?": "15",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483969518198853734": {
+    "guildId": "1351362266246680626",
+    "openerId": "1433131763567431765",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T23:25:04.302Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "Mod",
+      "How old are you?": "15",
+      "Link your resume if you have one": "I was going to apply for player so it didn’t work so this my player app"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483971384404344982": {
+    "guildId": "1351362266246680626",
+    "openerId": "1367949089206960128",
+    "type": "Void Roster",
+    "createdAt": "2026-03-18T23:32:29.033Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "How old are you?": "16",
+      "What roster are you joining as?": "Creative"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483977235886248127": {
+    "guildId": "1351362266246680626",
+    "openerId": "1479958317668499578",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-18T23:55:44.207Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "moderator",
+      "How old are you?": "13",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483980552414695676": {
+    "guildId": "1351362266246680626",
+    "openerId": "757341216286179435",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-19T00:08:55.079Z",
+    "closed": false,
+    "claimedBy": "1279962196482199699",
+    "answers": {
+      "What position are you applying for?": "Whatever my resume fits me for",
+      "How old are you?": "I am 15 Years old",
+      "Link your resume if you have one": "https://docs.google.com/document/d/12W3oC5RVcfaeFZP9HnoKiej8Nx1Nsjv1cLaS3NQz7RA/edit?usp=sharing"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483982238239690784": {
+    "guildId": "1351362266246680626",
+    "openerId": "1083839133904023573",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-19T00:15:36.993Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "moderator",
+      "How old are you?": "i am 16 years old",
+      "Link your resume if you have one": "i dont"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483983741800943717": {
+    "guildId": "1351362266246680626",
+    "openerId": "1457200545474543812",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-19T00:21:35.442Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "trial mod",
+      "How old are you?": "14",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483984763009368126": {
+    "guildId": "1351362266246680626",
+    "openerId": "1083839133904023573",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T00:25:38.808Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "i am 16 years",
+      "What roster are you joining as?": "void grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483989714733371556": {
+    "guildId": "1351362266246680626",
+    "openerId": "1324493232754790410",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-19T00:45:19.443Z",
+    "closed": true,
+    "claimedBy": "1279962196482199699",
+    "answers": {
+      "What position are you applying for?": "Moderation",
+      "How old are you?": "14",
+      "Link your resume if you have one": "Not needed for the role in applying for."
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483990268578496522": {
+    "guildId": "1351362266246680626",
+    "openerId": "849807841014448198",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T00:47:31.515Z",
+    "closed": true,
+    "claimedBy": "1015976575981858826",
+    "answers": {
+      "How old are you?": "16",
+      "What roster are you joining as?": "Grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483993574638092288": {
+    "guildId": "1351362266246680626",
+    "openerId": "1453864517464490197",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T01:00:39.677Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "14",
+      "What roster are you joining as?": "comp"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483995384945836073": {
+    "guildId": "1351362266246680626",
+    "openerId": "1449823856456896735",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T01:07:51.258Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "Idk"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1483995973343645777": {
+    "guildId": "1351362266246680626",
+    "openerId": "1449823856456896735",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-19T01:10:11.572Z",
+    "closed": true,
+    "claimedBy": "1290295958415999028",
+    "answers": {
+      "What position are you applying for?": "Moderator",
+      "How old are you?": "13",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1483999197970825317": {
+    "guildId": "1351362266246680626",
+    "openerId": "1467282599020859483",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T01:23:00.363Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "How old are you?": "I am 13 years old",
+      "What roster are you joining as?": "Fortnite"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1484004417740214292": {
+    "guildId": "1351362266246680626",
+    "openerId": "1420608859122307112",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-19T01:43:45.263Z",
+    "closed": true,
+    "claimedBy": "1279962196482199699",
+    "answers": {
+      "What position are you applying for?": "Moderator",
+      "How old are you?": "18",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1484009507377119355": {
+    "guildId": "1351362266246680626",
+    "openerId": "1457200545474543812",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-19T02:03:58.422Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "mod",
+      "How old are you?": "14",
+      "Link your resume if you have one": ""
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1484013024007426058": {
+    "guildId": "1351362266246680626",
+    "openerId": "1388963919066038302",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T02:17:56.876Z",
+    "closed": true,
+    "claimedBy": "1248403449465536594",
+    "answers": {
+      "How old are you?": "I am 13 years old",
+      "What roster are you joining as?": "Void Grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1484018385162604566": {
+    "guildId": "1351362266246680626",
+    "openerId": "1400507000265113707",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T02:39:15.137Z",
+    "closed": true,
+    "claimedBy": "1248403449465536594",
+    "answers": {
+      "How old are you?": "I am 14 years old",
+      "What roster are you joining as?": "Academy"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1484018774578299054": {
+    "guildId": "1351362266246680626",
+    "openerId": "1483189846217326635",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-19T02:40:47.837Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "Its a test",
+      "How old are you?": "Test",
+      "Link your resume if you have one": "Test"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1484022777722830960": {
+    "guildId": "1351362266246680626",
+    "openerId": "1462882208560975963",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T02:56:42.377Z",
+    "closed": true,
+    "claimedBy": "1248403449465536594",
+    "answers": {
+      "How old are you?": "14",
+      "What roster are you joining as?": "Creative"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1484027315523682515": {
+    "guildId": "1351362266246680626",
+    "openerId": "1145061121670262875",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T03:14:44.159Z",
+    "closed": false,
+    "claimedBy": "709131423214207068",
+    "answers": {
+      "How old are you?": "13",
+      "What roster are you joining as?": "creative"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1484031555964899470": {
+    "guildId": "1351362266246680626",
+    "openerId": "1325601625548652584",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T03:31:35.409Z",
+    "closed": true,
+    "claimedBy": "1015976575981858826",
+    "answers": {
+      "How old are you?": "14",
+      "What roster are you joining as?": "creative or main creative"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1484036040137379880": {
+    "guildId": "1351362266246680626",
+    "openerId": "1185623192052695070",
+    "type": "Void Staff Team",
+    "createdAt": "2026-03-19T03:49:24.300Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What position are you applying for?": "Trial Moderator",
+      "How old are you?": "14",
+      "Link your resume if you have one": "Nope"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ]
+  },
+  "1484040546237550672": {
+    "guildId": "1351362266246680626",
+    "openerId": "1339081114492469248",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T04:07:18.541Z",
+    "closed": true,
+    "claimedBy": "1453809633335578797",
+    "answers": {
+      "How old are you?": "i am 13",
+      "What roster are you joining as?": "i would like to apply for void grinder and void supporter please"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1484043644720775208": {
+    "guildId": "1351362266246680626",
+    "openerId": "1467366311784091820",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T04:19:37.317Z",
+    "closed": true,
+    "claimedBy": "709131423214207068",
+    "answers": {
+      "How old are you?": "15",
+      "What roster are you joining as?": "Void Grinder"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1484045175075639396": {
+    "guildId": "1351362266246680626",
+    "openerId": "1377242455740649584",
+    "type": "Void Roster",
+    "createdAt": "2026-03-19T04:25:42.178Z",
+    "closed": true,
+    "claimedBy": "1387910075137396878",
+    "answers": {
+      "How old are you?": "16",
+      "What roster are you joining as?": "VOID GRIDER"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ]
+  },
+  "1484056007825948765": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Creative Roster",
+    "createdAt": "2026-03-19T05:08:44.826Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "adasd": "drfvgr"
+    },
+    "pingRoles": [],
+    "fileQuestions": [
+      "Creative",
+      "wdsA"
+    ]
+  },
+  "1484059418352947242": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Comp. Roster",
+    "createdAt": "2026-03-19T05:22:18.138Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1484059455212621885": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Creative Roster",
+    "createdAt": "2026-03-19T05:22:26.998Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "adasd": "idfk"
+    },
+    "pingRoles": [],
+    "fileQuestions": [
+      "Creative",
+      "wdsA"
+    ]
+  },
+  "1484060474549993543": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Creative Roster",
+    "createdAt": "2026-03-19T05:26:29.768Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": [
+      "creative clip 1",
+      "clip 2"
+    ]
+  },
+  "1484061028064165958": {
+    "guildId": "1483314155539923177",
+    "openerId": "1447762659239006308",
+    "type": "Void Staff",
+    "createdAt": "2026-03-19T05:28:41.769Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1484061279260770327": {
+    "guildId": "1483314155539923177",
+    "openerId": "1447762659239006308",
+    "type": "Creative Roster",
+    "createdAt": "2026-03-19T05:29:41.706Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": [
+      "creative clip 1",
+      "clip 2"
+    ]
+  },
+  "1484061417689579591": {
+    "guildId": "1483314155539923177",
+    "openerId": "1447762659239006308",
+    "type": "Grinder",
+    "createdAt": "2026-03-19T05:30:14.703Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1484077142101852222": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Creative Roster",
+    "createdAt": "2026-03-19T06:32:43.772Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "What's your age?": "cz"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip 1",
+      "Free Build Clip 2"
+    ]
+  },
+  "1484077564845621289": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Comp. Roster",
+    "createdAt": "2026-03-19T06:34:24.418Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Whats your age?": "sd",
+      "Link your Fortnite tracker": "sdf"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484077600673501184": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Grinder",
+    "createdAt": "2026-03-19T06:34:33.018Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "How old are you?": "ads"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": []
+  },
+  "1484077708311793685": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Content Department",
+    "createdAt": "2026-03-19T06:34:58.677Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "How old are you?": "f",
+      "Link your socials here!": "gd"
+    },
+    "pingRoles": [
+      "1463320812479189112"
+    ],
+    "fileQuestions": []
+  },
+  "1484078443300651078": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Creative Roster",
+    "createdAt": "2026-03-19T06:37:53.940Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "What's your age?": "sdf"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip 1",
+      "Free Build Clip 2"
+    ]
+  },
+  "1484079696508620871": {
+    "guildId": "1351362266246680626",
+    "openerId": "1397780186170130472",
+    "type": "Grinder",
+    "createdAt": "2026-03-19T06:42:52.679Z",
+    "closed": true,
+    "claimedBy": "1451545020191604756",
+    "answers": {
+      "How old are you?": "I am 18 years old"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": []
+  },
+  "1484081471680675933": {
+    "guildId": "1351362266246680626",
+    "openerId": "769554592223854602",
+    "type": "Comp. Roster",
+    "createdAt": "2026-03-19T06:49:56.408Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "Am 1",
+      "Link your Fortnite tracker": "no"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484082951565213781": {
+    "guildId": "1351362266246680626",
+    "openerId": "1363913774578274405",
+    "type": "Creative Roster",
+    "createdAt": "2026-03-19T06:55:48.806Z",
+    "closed": true,
+    "claimedBy": "1191156849660133378",
+    "answers": {
+      "What's your age?": "10"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip 1",
+      "Free Build Clip 2"
+    ]
+  },
+  "1484097634527482008": {
+    "guildId": "1351362266246680626",
+    "openerId": "1324539829748498533",
+    "type": "Grinder",
+    "createdAt": "2026-03-19T07:54:09.519Z",
+    "closed": true,
+    "claimedBy": "1451545020191604756",
+    "answers": {
+      "How old are you?": "I am 18 years old"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": []
+  },
+  "1484099468847747183": {
+    "guildId": "1351362266246680626",
+    "openerId": "1459195683318796414",
+    "type": "Void Staff",
+    "createdAt": "2026-03-19T08:01:26.817Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What's your age?": "I am 15 years old",
+      "Link your resume if you have one!": "I don’t get it"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484102001787666556": {
+    "guildId": "1351362266246680626",
+    "openerId": "1480656651458711764",
+    "type": "Creative Roster",
+    "createdAt": "2026-03-19T08:11:30.816Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What's your age?": "Ssdd"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip 1",
+      "Free Build Clip 2"
+    ]
+  },
+  "1484102946609168446": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Competitive Roster",
+    "createdAt": "2026-03-19T08:15:16.057Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1484105424134471680": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Competitive Roster",
+    "createdAt": "2026-03-19T08:25:06.699Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What's your age?": "gfd",
+      "What's your PR and Region?": "sdf",
+      "Link your Tracker": "sdf"
+    },
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1484106911505846402": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "Competitive Roster",
+    "createdAt": "2026-03-19T08:31:03.644Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "What's your age?": "guh",
+      "What's your PR and Region?": "gj",
+      "Link your Tracker": "f"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484117782172798986": {
+    "guildId": "1351362266246680626",
+    "openerId": "1287758362196578306",
+    "type": "Grinder",
+    "createdAt": "2026-03-19T09:14:14.010Z",
+    "closed": true,
+    "claimedBy": "1453809633335578797",
+    "answers": {
+      "How old are you?": "I am 14 years old"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": []
+  },
+  "1484120979692064768": {
+    "guildId": "1456372317629186194",
+    "openerId": "1385881439102439484",
+    "type": "Building",
+    "createdAt": "2026-03-19T09:26:55.373Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Experience you have?": "sdf",
+      "Played in a Tournament? If so What Div": "sd"
+    },
+    "pingRoles": [
+      "1483299227042840576",
+      "1483546023354831001"
+    ],
+    "fileQuestions": []
+  },
+  "1484121838513553439": {
+    "guildId": "1456372317629186194",
+    "openerId": "1385881439102439484",
+    "type": "Game Sense",
+    "createdAt": "2026-03-19T09:30:20.188Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Level of experience you got": "rr",
+      "Played in a Tournament? If so What Div": "f"
+    },
+    "pingRoles": [
+      "1483299227042840576",
+      "1483546023354831001"
+    ],
+    "fileQuestions": []
+  },
+  "1484123828992086056": {
+    "guildId": "1456372317629186194",
+    "openerId": "1385881439102439484",
+    "type": "Join as a Coach",
+    "createdAt": "2026-03-19T09:38:14.727Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1484125699135508541": {
+    "guildId": "1456372317629186194",
+    "openerId": "1385881439102439484",
+    "type": "Join as a Coach",
+    "createdAt": "2026-03-19T09:45:40.657Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Have you coached anyone before?": "g",
+      "Link the Fn Tracker's of your student's": "gs"
+    },
+    "pingRoles": [
+      "1483301836361568377"
+    ],
+    "fileQuestions": [
+      "Proof's or Vouche's If you have"
+    ]
+  },
+  "1484131316625838203": {
+    "guildId": "1351362266246680626",
+    "openerId": "1302158965580365866",
+    "type": "Competitive Roster",
+    "createdAt": "2026-03-19T10:07:59.940Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "What's your age?": "13",
+      "What's your PR and Region?": "OCE 1K LIFETIMW",
+      "Link your Tracker": "https://fortnitetracker.com/profile/all/777%20clemzybot%C7%83"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484132518218170380": {
+    "guildId": "1351362266246680626",
+    "openerId": "1269323619884859483",
+    "type": "Creative Roster",
+    "createdAt": "2026-03-19T10:12:46.477Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What's your age?": "Iam 13 years old"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip 1",
+      "Free Build Clip 2"
+    ]
+  },
+  "1484134464518094998": {
+    "guildId": "1351362266246680626",
+    "openerId": "1417926221626605700",
+    "type": "Void Staff",
+    "createdAt": "2026-03-19T10:20:30.522Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What's your age?": "17",
+      "Link your resume if you have one!": "PDF only - will provide once in business atmosphere"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484151015287685140": {
+    "guildId": "1351362266246680626",
+    "openerId": "1055891905889701998",
+    "type": "Creative Roster",
+    "createdAt": "2026-03-19T11:26:16.514Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What's your age?": "i am 14 years old"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip 1",
+      "Free Build Clip 2"
+    ]
+  },
+  "1484155585774751896": {
+    "guildId": "1351362266246680626",
+    "openerId": "531448957604462592",
+    "type": "Content Department",
+    "createdAt": "2026-03-19T11:44:26.188Z",
+    "closed": false,
+    "claimedBy": "1084180646739587102",
+    "answers": {
+      "How old are you?": "19",
+      "Link your socials here!": "https://www.tiktok.com/@williamm_hd"
+    },
+    "pingRoles": [
+      "1463320812479189112"
+    ],
+    "fileQuestions": []
+  },
+  "1484157630929961075": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Comp. Roster",
+    "createdAt": "2026-03-19T11:52:33.818Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1484157661158178966": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Void Staff",
+    "createdAt": "2026-03-19T11:52:40.885Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1484157695698141356": {
+    "guildId": "1483314155539923177",
+    "openerId": "1385881439102439484",
+    "type": "Business Queries",
+    "createdAt": "2026-03-19T11:52:49.150Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1484158007213424810": {
+    "guildId": "1351362266246680626",
+    "openerId": "1417926221626605700",
+    "type": "Void Staff",
+    "createdAt": "2026-03-19T11:54:03.440Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "What's your age?": "17",
+      "Link your resume if you have one!": "pdf only"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484160984892575914": {
+    "guildId": "1351362266246680626",
+    "openerId": "1025043576394096713",
+    "type": "Grinder",
+    "createdAt": "2026-03-19T12:05:53.418Z",
+    "closed": true,
+    "claimedBy": "1248403449465536594",
+    "answers": {
+      "How old are you?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": []
+  },
+  "1484162526131257464": {
+    "guildId": "1351362266246680626",
+    "openerId": "1424924974321504276",
+    "type": "Grinder",
+    "createdAt": "2026-03-19T12:12:00.865Z",
+    "closed": true,
+    "claimedBy": "1248403449465536594",
+    "answers": {
+      "How old are you?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": []
+  },
+  "1484169029860982945": {
+    "guildId": "1456372317629186194",
+    "openerId": "1385881439102439484",
+    "type": "🏢Building",
+    "createdAt": "2026-03-19T12:37:51.446Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1484171385767985245": {
+    "guildId": "1351362266246680626",
+    "openerId": "1411076816017555618",
+    "type": "Grinder",
+    "createdAt": "2026-03-19T12:47:13.224Z",
+    "closed": true,
+    "claimedBy": "921044396277919804",
+    "answers": {
+      "How old are you?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": []
+  },
+  "1484172660677284040": {
+    "guildId": "1456372317629186194",
+    "openerId": "1385881439102439484",
+    "type": "🖊️Editing",
+    "createdAt": "2026-03-19T12:52:17.060Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Whats your experience here?": "ad",
+      "Did you participate any Tournament? If so what Division?": "asd"
+    },
+    "pingRoles": [
+      "1483299227042840576",
+      "1483546023354831001"
+    ],
+    "fileQuestions": []
+  },
+  "1484173851242922177": {
+    "guildId": "1456372317629186194",
+    "openerId": "1462945308634779799",
+    "type": "🖊️Editing",
+    "createdAt": "2026-03-19T12:57:01.024Z",
+    "closed": true,
+    "claimedBy": "1413049436204040264",
+    "answers": {
+      "Whats your experience here?": "New",
+      "Did you participate any Tournament? If so what Division?": "Yes 2 tourneys"
+    },
+    "pingRoles": [
+      "1483299227042840576",
+      "1483546023354831001"
+    ],
+    "fileQuestions": []
+  },
+  "1484173960206618775": {
+    "guildId": "1351362266246680626",
+    "openerId": "1010885377093017652",
+    "type": "Void Staff",
+    "createdAt": "2026-03-19T12:57:27.057Z",
+    "closed": true,
+    "claimedBy": "1279962196482199699",
+    "answers": {
+      "What's your age?": "I am 18",
+      "Link your resume if you have one!": "https://docs.google.com/document/d/1CjXMmbN3XBv7zjSlSaJk--NCx8NQuR_LCZqGSx-Qq6I/edit?usp=drivesdk"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484175183832027158": {
+    "guildId": "1351362266246680626",
+    "openerId": "1282825847962734714",
+    "type": "Competitive Roster",
+    "createdAt": "2026-03-19T13:02:18.764Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "What's your age?": "I am 17 years old",
+      "What's your PR and Region?": "41,029 Na central",
+      "Link your Tracker": "https://fortnitetracker.com/profile/all/zzzzzxaa/events"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484175709843750942": {
+    "guildId": "1351362266246680626",
+    "openerId": "1458641786879737991",
+    "type": "Competitive Roster",
+    "createdAt": "2026-03-19T13:04:24.035Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What's your age?": "14",
+      "What's your PR and Region?": "53 pr and NA central",
+      "Link your Tracker": "void khazki"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484175880996655104": {
+    "guildId": "1456372317629186194",
+    "openerId": "1462945308634779799",
+    "type": "🙋Join as a Coach",
+    "createdAt": "2026-03-19T13:05:04.860Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Do you have previous exp. as a Coach?": "No",
+      "If you do have, Link the Fn Tracker of ppl you trained": "No"
+    },
+    "pingRoles": [
+      "1483301836361568377"
+    ],
+    "fileQuestions": []
+  },
+  "1484182252383637706": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T13:30:23.995Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "cx"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484182394721534023": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T13:30:58.181Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "dg",
+      "Whats your PR and Region?": "dgf",
+      "Link your Fn tracker here": "fdg"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484182484777308332": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T13:31:19.360Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "nfc"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484182624175128628": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "🎥 Content Department",
+    "createdAt": "2026-03-19T13:31:52.627Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What do you want to join void as?": "bdg",
+      "Link your socials here": "dgb"
+    },
+    "pingRoles": [
+      "1463320812479189112"
+    ],
+    "fileQuestions": []
+  },
+  "1484182752151601293": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-19T13:32:23.218Z",
+    "closed": true,
+    "claimedBy": "1279962196482199699",
+    "answers": {
+      "Whats your age?": "hfg",
+      "Do you have any experience?": "hfgh",
+      "Link your resume if you have one": "fh"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484182893327679508": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "💼 Business Queries",
+    "createdAt": "2026-03-19T13:32:56.765Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Whats the reason behind you opening this ticket?": "vb"
+    },
+    "pingRoles": [
+      "1453854535746588855",
+      "1458223300634349844"
+    ],
+    "fileQuestions": []
+  },
+  "1484184009964654734": {
+    "guildId": "1351362266246680626",
+    "openerId": "1214621164064739392",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T13:37:24.591Z",
+    "closed": true,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484185645214859406": {
+    "guildId": "1351362266246680626",
+    "openerId": "1309100070788009994",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-19T13:43:52.959Z",
+    "closed": false,
+    "claimedBy": "1279962196482199699",
+    "answers": {
+      "Whats your age?": "13",
+      "Do you have any experience?": "Yes a lot of experience in moderation in scrims and discord.",
+      "Link your resume if you have one": "Haven't made a resume but can make one if seems necessary."
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484187338362847312": {
+    "guildId": "1351362266246680626",
+    "openerId": "1279962196482199699",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T13:50:36.622Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "test"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484190117013749790": {
+    "guildId": "1351362266246680626",
+    "openerId": "1459603827350044787",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T14:01:39.052Z",
+    "closed": true,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484191077367025816": {
+    "guildId": "1351362266246680626",
+    "openerId": "1459603827350044787",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T14:05:28.057Z",
+    "closed": true,
+    "claimedBy": "1373286398995599452",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484191931293630504": {
+    "guildId": "1351362266246680626",
+    "openerId": "1214621164064739392",
+    "type": "🎥 Content Department",
+    "createdAt": "2026-03-19T14:08:51.760Z",
+    "closed": false,
+    "claimedBy": "1084180646739587102",
+    "answers": {
+      "What do you want to join void as?": "junior content creator",
+      "Link your socials here": "https://twitch.tv/lion_tv2"
+    },
+    "pingRoles": [
+      "1463320812479189112"
+    ],
+    "fileQuestions": []
+  },
+  "1484192426288742514": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454137053297119436",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T14:10:49.621Z",
+    "closed": true,
+    "claimedBy": "1447943510270677103",
+    "answers": {
+      "Whats your age?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484193780927037624": {
+    "guildId": "1351362266246680626",
+    "openerId": "1254022075895517287",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T14:16:12.573Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484202093710540883": {
+    "guildId": "1351362266246680626",
+    "openerId": "895527056719347764",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T14:49:14.604Z",
+    "closed": true,
+    "claimedBy": "1191156849660133378",
+    "answers": {
+      "Whats your age?": "16"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484205436180627506": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T15:02:31.379Z",
+    "closed": true,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Whats your age?": "fw"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484206358042640445": {
+    "guildId": "1351362266246680626",
+    "openerId": "1402346886157046004",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-19T15:06:11.176Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "15",
+      "Do you have any experience?": "past roles: Sr Manager @VoidGGs Trial Admin @EGYggs Co Chair @SarrowGGs COO @V8/P7 Sr Staff @CIH Founder @SolarGGs",
+      "Link your resume if you have one": "dont have one"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484210925434179726": {
+    "guildId": "1351362266246680626",
+    "openerId": "1257522739317833781",
+    "type": "💼 Business Queries",
+    "createdAt": "2026-03-19T15:24:20.178Z",
+    "closed": false,
+    "claimedBy": "1334134450849579112",
+    "answers": {
+      "Whats the reason behind you opening this ticket?": "to be a editor for void esports"
+    },
+    "pingRoles": [
+      "1453854535746588855",
+      "1458223300634349844"
+    ],
+    "fileQuestions": []
+  },
+  "1484212972703322303": {
+    "guildId": "1351362266246680626",
+    "openerId": "1097909539057192970",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T15:32:28.181Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "17"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484213504582877215": {
+    "guildId": "1351362266246680626",
+    "openerId": "1097909539057192970",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T15:34:35.149Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484215676976758934": {
+    "guildId": "1351362266246680626",
+    "openerId": "1238947077917114481",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T15:43:13.620Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "13",
+      "Whats your PR and Region?": "none EU",
+      "Link your Fn tracker here": "https://fortnitetracker.com/profile/kbm/MONZA%20Rec"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484216938648440922": {
+    "guildId": "1351362266246680626",
+    "openerId": "1246645202823680022",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T15:48:13.808Z",
+    "closed": true,
+    "claimedBy": "1483189846217326635",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484217960619970610": {
+    "guildId": "1351362266246680626",
+    "openerId": "964921660635480134",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-19T15:52:17.577Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "15",
+      "Do you have any experience?": "Yes",
+      "Link your resume if you have one": "In the ticket"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484222276424564817": {
+    "guildId": "1351362266246680626",
+    "openerId": "1045976932841426965",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T16:09:26.403Z",
+    "closed": true,
+    "claimedBy": "1447943510270677103",
+    "answers": {
+      "Whats your age?": "16"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484229119876272220": {
+    "guildId": "1351362266246680626",
+    "openerId": "904407028468949034",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T16:36:38.045Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "14",
+      "Whats your PR and Region?": "42 eu with no decay",
+      "Link your Fn tracker here": "https://fortnitetracker.com/profile/all/User-87709e4817/events"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484229787143770223": {
+    "guildId": "1351362266246680626",
+    "openerId": "1411076816017555618",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T16:39:17.064Z",
+    "closed": true,
+    "claimedBy": "1447943510270677103",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484235583848059030": {
+    "guildId": "1351362266246680626",
+    "openerId": "1411076816017555618",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T17:02:19.262Z",
+    "closed": true,
+    "claimedBy": "921044396277919804",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484236690758565908": {
+    "guildId": "1351362266246680626",
+    "openerId": "1100076394333081622",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T17:06:43.042Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "17",
+      "Whats your PR and Region?": "1,4k eu",
+      "Link your Fn tracker here": "https://fortnitetracker.com/profile/all/twitter%20hillefnr/events"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484239134003298415": {
+    "guildId": "1351362266246680626",
+    "openerId": "1381425527721693268",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T17:16:25.729Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "16",
+      "Whats your PR and Region?": "Naw 126 pr",
+      "Link your Fn tracker here": "https://fortnitetracker.com/profile/all/Zenn%20on%20console./events"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484239662246658150": {
+    "guildId": "1351362266246680626",
+    "openerId": "1417696383548395672",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T17:18:31.636Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "14",
+      "Whats your PR and Region?": "7k NAC",
+      "Link your Fn tracker here": "https://fortnitetracker.com/profile/kbm/twtr%20kdotfto_/events?competitive=pr&region=NAC"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484245459672371282": {
+    "guildId": "1351362266246680626",
+    "openerId": "1122598458554077244",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T17:41:33.812Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484251095781081261": {
+    "guildId": "1351362266246680626",
+    "openerId": "1347936302900969553",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T18:03:57.537Z",
+    "closed": false,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484254809887473756": {
+    "guildId": "1351362266246680626",
+    "openerId": "1136236853935210576",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T18:18:43.053Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "67",
+      "Whats your PR and Region?": "0 europe",
+      "Link your Fn tracker here": "my fn name tiktoknexygng"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484257804373069886": {
+    "guildId": "1351362266246680626",
+    "openerId": "1427395274502045929",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T18:30:37.038Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484260043703582870": {
+    "guildId": "1351362266246680626",
+    "openerId": "1483511031383720088",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T18:39:30.975Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484261763850567761": {
+    "guildId": "1351362266246680626",
+    "openerId": "1394640347287519312",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T18:46:20.964Z",
+    "closed": true,
+    "claimedBy": "1191156849660133378",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484263201028706435": {
+    "guildId": "1351362266246680626",
+    "openerId": "1348409317728063508",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T18:52:03.670Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484264356224041040": {
+    "guildId": "1351362266246680626",
+    "openerId": "1348409317728063508",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T18:56:39.139Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484267068579774635": {
+    "guildId": "1351362266246680626",
+    "openerId": "1452090943149838429",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T19:07:25.934Z",
+    "closed": true,
+    "claimedBy": "1287758362196578306",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484269239824154816": {
+    "guildId": "1351362266246680626",
+    "openerId": "1396309693365747855",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T19:16:03.484Z",
+    "closed": true,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "18"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484274404618797309": {
+    "guildId": "1351362266246680626",
+    "openerId": "1380108789784641630",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T19:36:35.041Z",
+    "closed": true,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484275917026234570": {
+    "guildId": "1351362266246680626",
+    "openerId": "1383072381005856884",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T19:42:35.385Z",
+    "closed": true,
+    "claimedBy": "1191156849660133378",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484277590872293517": {
+    "guildId": "1351362266246680626",
+    "openerId": "1121078634355105853",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T19:49:14.499Z",
+    "closed": true,
+    "claimedBy": "1248403449465536594",
+    "answers": {
+      "Whats your age?": "16"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484279341058756739": {
+    "guildId": "1351362266246680626",
+    "openerId": "1434339701103530084",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-19T19:56:11.838Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "18",
+      "Do you have any experience?": "Yes",
+      "Link your resume if you have one": "Dont really have one but i got picture"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484279346234392696": {
+    "guildId": "1351362266246680626",
+    "openerId": "1382352860930641953",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T19:56:12.936Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "18"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484279406955331707": {
+    "guildId": "1351362266246680626",
+    "openerId": "1269323619884859483",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T19:56:27.465Z",
+    "closed": true,
+    "claimedBy": "1248403449465536594",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484285369079042240": {
+    "guildId": "1351362266246680626",
+    "openerId": "1061353237732667452",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T20:20:09.137Z",
+    "closed": true,
+    "claimedBy": "1379870737443328070",
+    "answers": {
+      "Whats your age?": "17"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484286667366858876": {
+    "guildId": "1351362266246680626",
+    "openerId": "1193203335638044707",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T20:25:18.516Z",
+    "closed": true,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484291749588242605": {
+    "guildId": "1351362266246680626",
+    "openerId": "1310791685055316011",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T20:45:31.956Z",
+    "closed": true,
+    "claimedBy": "1287758362196578306",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484292016924917880": {
+    "guildId": "1351362266246680626",
+    "openerId": "1121078634355105853",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T20:46:34.078Z",
+    "closed": true,
+    "claimedBy": "1287758362196578306",
+    "answers": {
+      "Whats your age?": "16"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484292924501131444": {
+    "guildId": "1351362266246680626",
+    "openerId": "1239254126206910544",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T20:50:10.243Z",
+    "closed": true,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "16"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484301790941020201": {
+    "guildId": "1351362266246680626",
+    "openerId": "1058063411138805780",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T21:25:24.222Z",
+    "closed": true,
+    "claimedBy": "1193203335638044707",
+    "answers": {
+      "Whats your age?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484304725250932837": {
+    "guildId": "1351362266246680626",
+    "openerId": "1481849529211818155",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-19T21:37:03.823Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "9",
+      "Do you have any experience?": "I wanna help the server",
+      "Link your resume if you have one": "Fortnite esports"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484305602778759351": {
+    "guildId": "1351362266246680626",
+    "openerId": "1484074242558660669",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T21:40:33.052Z",
+    "closed": true,
+    "claimedBy": "1287758362196578306",
+    "answers": {
+      "Whats your age?": "11"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484307052711903242": {
+    "guildId": "1351362266246680626",
+    "openerId": "1337074658171682816",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T21:46:18.719Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "11"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484307504199368884": {
+    "guildId": "1351362266246680626",
+    "openerId": "1398822321627856998",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T21:48:06.301Z",
+    "closed": true,
+    "claimedBy": "1378458353130405999",
+    "answers": {
+      "Whats your age?": "17"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484308977222160545": {
+    "guildId": "1351362266246680626",
+    "openerId": "822544158055989269",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T21:53:57.542Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "16",
+      "Whats your PR and Region?": "1kpr NAE",
+      "Link your Fn tracker here": "https://fortnitetracker.com/profile/all/zurie%20281%C7%83/events"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484309311189684368": {
+    "guildId": "1351362266246680626",
+    "openerId": "1398822321627856998",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T21:55:17.274Z",
+    "closed": true,
+    "claimedBy": "1015976575981858826",
+    "answers": {
+      "Whats your age?": "17"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484311310043844638": {
+    "guildId": "1351362266246680626",
+    "openerId": "1209235679322701864",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T22:03:13.966Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "14",
+      "Whats your PR and Region?": "NA-East",
+      "Link your Fn tracker here": "M8NG00"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484311365626888252": {
+    "guildId": "1351362266246680626",
+    "openerId": "1321216452803432478",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T22:03:27.059Z",
+    "closed": true,
+    "claimedBy": "1015976575981858826",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484311387479216410": {
+    "guildId": "1351362266246680626",
+    "openerId": "1482411264339873873",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T22:03:32.216Z",
+    "closed": true,
+    "claimedBy": "1248403449465536594",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484313885711401042": {
+    "guildId": "1351362266246680626",
+    "openerId": "1265796641634652333",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T22:13:27.941Z",
+    "closed": true,
+    "claimedBy": "1387910075137396878",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484314223650668696": {
+    "guildId": "1351362266246680626",
+    "openerId": "1473356679734104177",
+    "type": "💼 Business Queries",
+    "createdAt": "2026-03-19T22:14:48.381Z",
+    "closed": true,
+    "claimedBy": "1334134450849579112",
+    "answers": {
+      "Whats the reason behind you opening this ticket?": "I wanna join the Fortnite clan"
+    },
+    "pingRoles": [
+      "1453854535746588855",
+      "1458223300634349844"
+    ],
+    "fileQuestions": []
+  },
+  "1484314863827423312": {
+    "guildId": "1351362266246680626",
+    "openerId": "1203732042785751110",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T22:17:20.964Z",
+    "closed": true,
+    "claimedBy": "1333141939184336908",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484318059215851713": {
+    "guildId": "1351362266246680626",
+    "openerId": "1209235679322701864",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T22:30:02.865Z",
+    "closed": true,
+    "claimedBy": "1320206146690224150",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484321567356878979": {
+    "guildId": "1351362266246680626",
+    "openerId": "1265796641634652333",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-19T22:43:59.268Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484322120858075157": {
+    "guildId": "1351362266246680626",
+    "openerId": "1270120723838537803",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T22:46:11.296Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484323719898992811": {
+    "guildId": "1351362266246680626",
+    "openerId": "1473356679734104177",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T22:52:32.422Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484324153837486284": {
+    "guildId": "1351362266246680626",
+    "openerId": "764013244243116072",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T22:54:15.939Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "19",
+      "Whats your PR and Region?": "0 and OCEANIA",
+      "Link your Fn tracker here": "https://fortnitetracker.com/profile/gamepad/pine%20.ᐟ"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484325558056653010": {
+    "guildId": "1351362266246680626",
+    "openerId": "1462182562695872685",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-19T22:59:50.789Z",
+    "closed": false,
+    "claimedBy": "1346637261189419148",
+    "answers": {
+      "Whats your age?": "12 but I’mma be 13",
+      "Do you have any experience?": "Yes, I started in chapter 2 season two",
+      "Link your resume if you have one": "I don’t know how to link a resume can you teach me?"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484325970579030208": {
+    "guildId": "1456372317629186194",
+    "openerId": "1394371831200350278",
+    "type": "🛠️Mechanics",
+    "createdAt": "2026-03-19T23:01:29.189Z",
+    "closed": true,
+    "claimedBy": "1435643205818384464",
+    "answers": {
+      "Whats your experience here?": "Idk",
+      "Did you participate any Tournament? If so what Division?": "4"
+    },
+    "pingRoles": [
+      "1483299227042840576",
+      "1483546023354831001"
+    ],
+    "fileQuestions": []
+  },
+  "1484326462348591135": {
+    "guildId": "1351362266246680626",
+    "openerId": "1462182562695872685",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T23:03:26.360Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "12",
+      "Whats your PR and Region?": "I don’t know what’s my PR, but my region is Asia Saudi Arabia",
+      "Link your Fn tracker here": "I don’t know how bro teach me, please"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484328884789969098": {
+    "guildId": "1351362266246680626",
+    "openerId": "1459029241936089253",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T23:13:03.849Z",
+    "closed": true,
+    "claimedBy": "1333141939184336908",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484329195147628615": {
+    "guildId": "1351362266246680626",
+    "openerId": "1273343051254857731",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-19T23:14:17.997Z",
+    "closed": true,
+    "claimedBy": "1290295958415999028",
+    "answers": {
+      "Whats your age?": "18",
+      "Do you have any experience?": "Yes I was just kicked after answering a ticket!",
+      "Link your resume if you have one": "N/A"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484331567835775008": {
+    "guildId": "1351362266246680626",
+    "openerId": "1239254126206910544",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T23:23:43.644Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "16"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484333679281963159": {
+    "guildId": "1351362266246680626",
+    "openerId": "1429268177229189240",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-19T23:32:07.045Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "13",
+      "Whats your PR and Region?": "134 eu",
+      "Link your Fn tracker here": "https://fortnitetracker.com/profile/all/savne%20du%20mæ"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484334986302591147": {
+    "guildId": "1351362266246680626",
+    "openerId": "1209235679322701864",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T23:37:18.648Z",
+    "closed": true,
+    "claimedBy": "1010885377093017652",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484336447606624259": {
+    "guildId": "1351362266246680626",
+    "openerId": "1447372590556381377",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T23:43:07.049Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484339107093287115": {
+    "guildId": "1351362266246680626",
+    "openerId": "1268407215325319178",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T23:53:41.162Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "17"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484339504969154690": {
+    "guildId": "1351362266246680626",
+    "openerId": "1209235679322701864",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-19T23:55:15.926Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484340181053214800": {
+    "guildId": "1351362266246680626",
+    "openerId": "1339081114492469248",
+    "type": "🎥 Content Department",
+    "createdAt": "2026-03-19T23:57:57.149Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "What do you want to join void as?": "editor",
+      "Link your socials here": "https://www.youtube.com/@chillyfv"
+    },
+    "pingRoles": [
+      "1463320812479189112"
+    ],
+    "fileQuestions": []
+  },
+  "1484340936996552836": {
+    "guildId": "1351362266246680626",
+    "openerId": "1339081114492469248",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T00:00:57.488Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "13 I would like to apply for editor"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484341087387783179": {
+    "guildId": "1351362266246680626",
+    "openerId": "1427528164917248101",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-20T00:01:33.232Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "15",
+      "Whats your PR and Region?": "Na east 165",
+      "Link your Fn tracker here": "https://fortnitetracker.com/profile/gamepad/X38RKNIGHT/events?region=GLOBAL"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484345013285687408": {
+    "guildId": "1351362266246680626",
+    "openerId": "1461143923698307223",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T00:17:09.186Z",
+    "closed": true,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484345814930292838": {
+    "guildId": "1351362266246680626",
+    "openerId": "815788720707076127",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T00:20:20.426Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "13 rn 14 in june"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484349343929729185": {
+    "guildId": "1351362266246680626",
+    "openerId": "1384644202842816613",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-20T00:34:21.886Z",
+    "closed": false,
+    "claimedBy": "1346637261189419148",
+    "answers": {
+      "Whats your age?": "15",
+      "Do you have any experience?": "no",
+      "Link your resume if you have one": "none"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484350811889991840": {
+    "guildId": "1351362266246680626",
+    "openerId": "1209235679322701864",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-20T00:40:11.731Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "14",
+      "Whats your PR and Region?": "NA-EAST",
+      "Link your Fn tracker here": "Void M8NG0"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484351378490130492": {
+    "guildId": "1351362266246680626",
+    "openerId": "794329123047604224",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T00:42:26.807Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "18"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484351977881206897": {
+    "guildId": "1351362266246680626",
+    "openerId": "1377242455740649584",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T00:44:49.648Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484352734017753158": {
+    "guildId": "1351362266246680626",
+    "openerId": "1334980395019800648",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T00:47:50.077Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484360911362719965": {
+    "guildId": "1351362266246680626",
+    "openerId": "1096252530679365773",
+    "type": "💼 Business Queries",
+    "createdAt": "2026-03-20T01:20:19.618Z",
+    "closed": false,
+    "claimedBy": "1385881439102439484",
+    "answers": {
+      "Whats the reason behind you opening this ticket?": "Free gfx designer"
+    },
+    "pingRoles": [
+      "1453854535746588855",
+      "1458223300634349844"
+    ],
+    "fileQuestions": []
+  },
+  "1484368122084593838": {
+    "guildId": "1351362266246680626",
+    "openerId": "735482693860458547",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T01:48:58.857Z",
+    "closed": true,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484369290638397483": {
+    "guildId": "1351362266246680626",
+    "openerId": "1318392588192972810",
+    "type": "🎥 Content Department",
+    "createdAt": "2026-03-20T01:53:37.454Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "What do you want to join void as?": "Content creator",
+      "Link your socials here": "TikTok tech loop"
+    },
+    "pingRoles": [
+      "1463320812479189112"
+    ],
+    "fileQuestions": []
+  },
+  "1484369298871812228": {
+    "guildId": "1351362266246680626",
+    "openerId": "1127674971708207255",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-20T01:53:39.445Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "15",
+      "Whats your PR and Region?": "10",
+      "Link your Fn tracker here": "jberrs87"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484370229407649883": {
+    "guildId": "1351362266246680626",
+    "openerId": "1393340180706103460",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T01:57:21.137Z",
+    "closed": false,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484370691250720828": {
+    "guildId": "1351362266246680626",
+    "openerId": "1377242455740649584",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T01:59:11.242Z",
+    "closed": true,
+    "claimedBy": "1015976575981858826",
+    "answers": {
+      "Whats your age?": "15"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484371138573504654": {
+    "guildId": "1351362266246680626",
+    "openerId": "1189420793571061923",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T02:00:58.030Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484381356090986684": {
+    "guildId": "1351362266246680626",
+    "openerId": "1483650931936461003",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T02:41:33.974Z",
+    "closed": false,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "16"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484383680007770213": {
+    "guildId": "1351362266246680626",
+    "openerId": "1236365541107568722",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T02:50:48.130Z",
+    "closed": true,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484386957025869896": {
+    "guildId": "1351362266246680626",
+    "openerId": "1236365541107568722",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T03:03:49.551Z",
+    "closed": true,
+    "claimedBy": "1457200545474543812",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484388646378278995": {
+    "guildId": "1351362266246680626",
+    "openerId": "1142613012713320458",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T03:10:32.284Z",
+    "closed": true,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "16"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484388767203721330": {
+    "guildId": "1351362266246680626",
+    "openerId": "879373616792367134",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T03:11:01.066Z",
+    "closed": true,
+    "claimedBy": "1400659051045589022",
+    "answers": {
+      "Whats your age?": "16"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484388908241260656": {
+    "guildId": "1351362266246680626",
+    "openerId": "1142613012713320458",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T03:11:34.657Z",
+    "closed": true,
+    "claimedBy": "1457200545474543812",
+    "answers": {
+      "Whats your age?": "16"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484403683578872000": {
+    "guildId": "1351362266246680626",
+    "openerId": "1456270410877239328",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-20T04:10:17.272Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "9",
+      "Do you have any experience?": "Yes",
+      "Link your resume if you have one": "I don’t have one"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484414921386233946": {
+    "guildId": "1351362266246680626",
+    "openerId": "1006251448318836827",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-20T04:54:56.566Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "17",
+      "Do you have any experience?": "Ive been upper management in P7, operations in TRC, lead operations in ECHO Region, management in EGY, upper management in BNTH, and CEO in 4L when they were just starting out as an esports org.",
+      "Link your resume if you have one": "https://docs.google.com/document/d/1h0xfK4P_R0USayo7-3uw9h0qIHYvF674w1SqoEPv_Yg/edit?tab=t.0"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484452216621236405": {
+    "guildId": "1351362266246680626",
+    "openerId": "1385881439102439484",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T07:23:08.570Z",
+    "closed": true,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484452931007807508": {
+    "guildId": "1351362266246680626",
+    "openerId": "1382781502181474394",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-20T07:25:58.702Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "14",
+      "Do you have any experience?": "Yes but not a lot",
+      "Link your resume if you have one": "I don’t have one"
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484453054890639440": {
+    "guildId": "1351362266246680626",
+    "openerId": "280042631763984385",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T07:26:28.357Z",
+    "closed": false,
+    "claimedBy": "1273343051254857731",
+    "answers": {
+      "Whats your age?": "22"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484457485283758150": {
+    "guildId": "1351362266246680626",
+    "openerId": "1433058581883781170",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-20T07:44:04.543Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "13",
+      "Whats your PR and Region?": "Europe and i only have about 9 PR",
+      "Link your Fn tracker here": "ELITE FLIXZ"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484464338642145331": {
+    "guildId": "1351362266246680626",
+    "openerId": "1281151901215232012",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T08:11:18.725Z",
+    "closed": true,
+    "claimedBy": "1287758362196578306",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484482792271253515": {
+    "guildId": "1351362266246680626",
+    "openerId": "1341292185404051580",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T09:24:38.171Z",
+    "closed": true,
+    "claimedBy": "1048590283530571798",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484488295760003122": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454244503627108497",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T09:46:30.262Z",
+    "closed": true,
+    "claimedBy": "1287758362196578306",
+    "answers": {
+      "Whats your age?": "l am 18"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484495034525945856": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454244503627108497",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T10:13:16.885Z",
+    "closed": true,
+    "claimedBy": "1010885377093017652",
+    "answers": {
+      "Whats your age?": "l am 18 almost 19"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484498388639813755": {
+    "guildId": "1351362266246680626",
+    "openerId": "1429268177229189240",
+    "type": "🕹️ Competitive Roster",
+    "createdAt": "2026-03-20T10:26:38.016Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whtas your age?": "13",
+      "Whats your PR and Region?": "134pr eu",
+      "Link your Fn tracker here": "https://fortnitetracker.com/profile/all/savne%20du%20m%c3%a6"
+    },
+    "pingRoles": [
+      "1444524086851141652"
+    ],
+    "fileQuestions": []
+  },
+  "1484500092298854402": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454244503627108497",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T10:33:22.954Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "l am 18 almost 19"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484500485175246868": {
+    "guildId": "1351362266246680626",
+    "openerId": "1268387273125134412",
+    "type": "🛠️ Void Staff",
+    "createdAt": "2026-03-20T10:34:56.575Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "16",
+      "Do you have any experience?": "yes ofc",
+      "Link your resume if you have one": "I don’t."
+    },
+    "pingRoles": [
+      "1463351749371887649"
+    ],
+    "fileQuestions": []
+  },
+  "1484500539550208113": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454244503627108497",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T10:35:09.479Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "19  almost 20"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484502268488319157": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454244503627108497",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T10:42:01.645Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "Whats your age?": "19 almost 20"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484516341296664738": {
+    "guildId": "1351362266246680626",
+    "openerId": "1424434924844351488",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T11:37:56.935Z",
+    "closed": true,
+    "claimedBy": "1457200545474543812",
+    "answers": {
+      "Whats your age?": "14"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484522633537261578": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454244503627108497",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T12:02:57.153Z",
+    "closed": true,
+    "claimedBy": "1471972755657461840",
+    "answers": {
+      "Whats your age?": "19 almost 20"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484522899174850640": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454244503627108497",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T12:04:00.459Z",
+    "closed": true,
+    "claimedBy": "921044396277919804",
+    "answers": {
+      "Whats your age?": "l am 18  and amlost 19"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484523748949360840": {
+    "guildId": "1351362266246680626",
+    "openerId": "1401093967386251416",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T12:07:23.125Z",
+    "closed": false,
+    "claimedBy": "1447943510270677103",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484524787912019999": {
+    "guildId": "1456372317629186194",
+    "openerId": "1265336751736492156",
+    "type": "🖊️Editing",
+    "createdAt": "2026-03-20T12:11:30.853Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "Whats your experience here?": "New",
+      "Did you participate any Tournament? If so what Division?": "No I didn't because I don't have 2fa"
+    },
+    "pingRoles": [
+      "1483299227042840576",
+      "1483546023354831001"
+    ],
+    "fileQuestions": []
+  },
+  "1484528501389529201": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454244503627108497",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T12:26:17.845Z",
+    "closed": false,
+    "claimedBy": "1010885377093017652",
+    "answers": {
+      "Whats your age?": "18 almost 19"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484534547650576435": {
+    "guildId": "1351362266246680626",
+    "openerId": "1323337734487539712",
+    "type": "⚔️ Grinder",
+    "createdAt": "2026-03-20T12:50:17.856Z",
+    "closed": true,
+    "claimedBy": "1451545020191604756",
+    "answers": {
+      "Whats your age?": "13"
+    },
+    "pingRoles": [
+      "1444524137526853723"
+    ],
+    "fileQuestions": [
+      "Use \"team.void\" in fortnite item shop and send a ScreenShot"
+    ]
+  },
+  "1484535804456865802": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454244503627108497",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T12:55:17.436Z",
+    "closed": true,
+    "claimedBy": "1451545020191604756",
+    "answers": {
+      "Whats your age?": "18"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484536192040046702": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454244503627108497",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T12:56:49.732Z",
+    "closed": true,
+    "claimedBy": "1451545020191604756",
+    "answers": {
+      "Whats your age?": "19"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1484536898524282912": {
+    "guildId": "1351362266246680626",
+    "openerId": "1454244503627108497",
+    "type": "🎮 Creative Roster",
+    "createdAt": "2026-03-20T12:59:38.253Z",
+    "closed": true,
+    "claimedBy": "1447943510270677103",
+    "answers": {
+      "Whats your age?": "19"
+    },
+    "pingRoles": [
+      "1444524137526853723",
+      "1463319933587816448"
+    ],
+    "fileQuestions": [
+      "Free Build Clip-1",
+      "Free Build Clip-2"
+    ]
+  },
+  "1507373462316908556": {
+    "guildId": "1506716252436172941",
+    "openerId": "1478841896909406349",
+    "type": "Roster",
+    "createdAt": "2026-05-22T13:23:59.188Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {},
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1507373691162460341": {
+    "guildId": "1506716252436172941",
+    "openerId": "1478841896909406349",
+    "type": "Roster",
+    "createdAt": "2026-05-22T13:24:53.725Z",
+    "closed": true,
+    "claimedBy": null,
+    "answers": {
+      "How Old are you?": "15"
+    },
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1507388875167764590": {
+    "guildId": "1506716252436172941",
+    "openerId": "1342383114139340822",
+    "type": "Roster",
+    "createdAt": "2026-05-22T14:25:13.858Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "How Old are you?": "Nejeje"
+    },
+    "pingRoles": [],
+    "fileQuestions": []
+  },
+  "1507389332992823530": {
+    "guildId": "1506716252436172941",
+    "openerId": "1478841896909406349",
+    "type": "Staff",
+    "createdAt": "2026-05-22T14:27:03.163Z",
+    "closed": false,
+    "claimedBy": null,
+    "answers": {
+      "TEST": "Here"
+    },
+    "pingRoles": [],
+    "fileQuestions": []
+  }
+}

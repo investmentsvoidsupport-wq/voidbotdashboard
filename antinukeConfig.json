@@ -1,0 +1,28 @@
+{
+  "1483314155539923177": {
+    "enabled": true,
+    "logChannelId": "1483338997483966474",
+    "warnThreshold": 5,
+    "timeout1Threshold": 10,
+    "timeout2Threshold": 15,
+    "resetSeconds": 10,
+    "roleNukeThreshold": 7
+  },
+  "1351362266246680626": {
+    "enabled": false,
+    "logChannelId": "1474490344380043486",
+    "warnThreshold": 5,
+    "timeout1Threshold": 10,
+    "timeout2Threshold": 15,
+    "resetSeconds": 10,
+    "roleNukeAutoAction": true
+  },
+  "1506716252436172941": {
+    "enabled": true,
+    "logChannelId": "1506716253354590362",
+    "warnThreshold": 5,
+    "timeout1Threshold": 10,
+    "timeout2Threshold": 15,
+    "resetSeconds": 10
+  }
+}
