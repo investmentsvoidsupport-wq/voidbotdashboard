@@ -46,15 +46,34 @@ const DEFAULT_CONFIG = {
         adminRoleIds: [], // Roles that have admin perms (to watch)
         maxSelfRoleGrants: 2, // Max roles a user can grant themselves in 10 seconds
         notifyOnAdminGrant: true, // Notify when admin perms are granted
+        maxRapidRoleChanges: 4,
+        positionJumpThreshold: 5,
+        roleRiskScoreThreshold: 12
+    },
+
+    webhookProtection: {
+        enabled: true,
+        spikeThreshold: 3,
+        spamMessageThreshold: 15,
+        usageWindowMs: 20000,
+        repeatSpamThreshold: 4,
+        mentionSpamThreshold: 3,
+        mentionSpamRepeatThreshold: 2
     },
     
     // Spam protection (existing)
     spam: {
         enabled: true,
+        enhancedEnabled: true,
         warnThreshold: 5,
         timeout1Threshold: 10,
         timeout2Threshold: 15,
         resetSeconds: 10,
+        burstWindow: 5000,
+        burstThreshold: 8,
+        repeatContentThreshold: 3,
+        mentionThreshold: 4,
+        mentionRepeatThreshold: 2
     }
 };
 

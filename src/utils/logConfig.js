@@ -12,7 +12,10 @@ const DEFAULT_CATEGORIES = {
   system: true,
   custom: true,
   mod_logs: true,
-  server_logs: true
+  server_logs: true,
+  role_logs: true,
+  webhook_logs: true,
+  raid_logs: true
 };
 
 const DEFAULT_CONFIG = {

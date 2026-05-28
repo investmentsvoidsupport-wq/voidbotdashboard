@@ -47,6 +47,8 @@ const serverLogHandler = require('./utils/serverLogHandler');
 const fastModStats = require('./utils/fastModStats');
 const auditLogger = require('./utils/auditLogger');
 const logManager = require('./utils/logManager');
+const roleSecurity = require('./utils/roleSecurity');
+const webhookProtection = require('./utils/webhookProtection');
 
 // Bot status
 const { setBotStatus } = require('./botStatus');
@@ -147,7 +149,8 @@ client.once(Events.ClientReady, async () => {
   await gameSubmit.initGameSubmit();
   await gatekeeper.initGatekeeper();
   await fastModStats.initFastModStats();
-    await ticketHandlers.initTimers(client).catch(console.error);
+  await roleSecurity.initRoleScanner(client);
+  await ticketHandlers.initTimers(client).catch(console.error);
   
   console.log('🛡️ Security systems initialized');
   console.log('⚡ Fast ModStats ready');
@@ -809,6 +812,10 @@ async function handleModalSubmit(interaction) {
 
 // ==================== MESSAGE HANDLER ====================
 client.on(Events.MessageCreate, async (message) => {
+  if (message.webhookId) {
+    await webhookProtection.handleWebhookMessage(message).catch(console.error);
+    return;
+  }
   if (message.author.bot) return;
   
   // Gatekeeper first
@@ -838,16 +845,23 @@ client.on(Events.GuildUpdate, (oldGuild, newGuild) => {
 client.on(Events.RoleCreate, (role) => {
   securityHandler.handleRoleCreate(role).catch(console.error);
   serverLogHandler.handleRoleCreate(role).catch(console.error);
+  roleSecurity.handleRoleCreate(role).catch(console.error);
 });
 
 client.on(Events.RoleDelete, (role) => {
   securityHandler.handleRoleDelete(role).catch(console.error);
   serverLogHandler.handleRoleDelete(role).catch(console.error);
+  roleSecurity.handleRoleDelete(role).catch(console.error);
 });
 
 client.on(Events.RoleUpdate, (oldRole, newRole) => {
   securityHandler.handleRoleUpdate(oldRole, newRole).catch(console.error);
   serverLogHandler.handleRoleUpdate(oldRole, newRole).catch(console.error);
+  roleSecurity.handleRoleUpdate(oldRole, newRole).catch(console.error);
+});
+
+client.on(Events.WebhooksUpdate, (channel) => {
+  webhookProtection.handleWebhooksUpdate(channel).catch(console.error);
 });
 
 client.on(Events.GuildBanAdd, (ban) => {

@@ -10,7 +10,10 @@ const CATEGORY_NAMES = {
   system: 'System',
   custom: 'Custom',
   mod_logs: 'Mod Logs',
-  server_logs: 'Server Logs'
+  server_logs: 'Server Logs',
+  role_logs: 'Role Logs',
+  webhook_logs: 'Webhook Logs',
+  raid_logs: 'Raid Logs'
 };
 
 function buildEmbed(options = {}) {

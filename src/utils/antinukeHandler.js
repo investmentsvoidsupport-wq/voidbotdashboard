@@ -3,6 +3,7 @@ const { EmbedBuilder, PermissionFlagsBits } = require('discord.js');
 const antinukeConfig = require('./antinukeConfig');
 const ticketConfig = require('./ticketConfig');
 const logManager = require('./logManager');
+const antiSpamWatcher = require('./antiSpamWatcher');
 
 const INVITE_PATTERN = /(?:discord(?:app)?\.com\/invite|discord\.gg|invite\.gg)\/\w+/i;
 
@@ -223,6 +224,9 @@ async function handleAntiSpam(message) {
     const userId = message.author.id;
     const channel = message.channel;
     
+    const spamFlags = await antiSpamWatcher.handleSpamSignals(message, config);
+    if (spamFlags) return true;
+
     // Get user's spam data
     let userData = await antinukeConfig.getUserWarnings(guildId, userId);
     const now = Date.now();
