@@ -43,6 +43,7 @@ const blacklist = require('./commands/blacklist');
 
 // Security Utilities
 const securityHandler = require('./utils/securityHandler');
+const securityFramework = require('./utils/securityFramework');
 const serverLogHandler = require('./utils/serverLogHandler');
 const fastModStats = require('./utils/fastModStats');
 const auditLogger = require('./utils/auditLogger');
@@ -150,6 +151,7 @@ client.once(Events.ClientReady, async () => {
   await gatekeeper.initGatekeeper();
   await fastModStats.initFastModStats();
   await roleSecurity.initRoleScanner(client);
+  await securityFramework.init(client);
   await ticketHandlers.initTimers(client).catch(console.error);
   
   console.log('🛡️ Security systems initialized');
@@ -821,14 +823,14 @@ client.on(Events.MessageCreate, async (message) => {
   // Gatekeeper first
   await gatekeeper.handleMessage(message).catch(err => console.error('Gatekeeper error:', err));
   
-  // Anti-scam and anti-spam
+  // Anti-scam and enhanced security handling
   try {
     const isScam = await antinukeHandler.handleAntiScam(message);
     if (!isScam) {
-      await antinukeHandler.handleAntiSpam(message);
+      await securityFramework.handleMessage(message);
     }
   } catch (err) {
-    console.error('Antinuke error:', err);
+    console.error('Security message handling error:', err);
   }
 });
 

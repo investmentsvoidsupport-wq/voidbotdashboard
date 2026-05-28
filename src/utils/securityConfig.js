@@ -16,7 +16,40 @@ let whitelistWritePending = false;
 
 const DEFAULT_CONFIG = {
     enabled: true,
-    logChannelId: '1474490344380043486',
+    logChannelId: null,
+    modules: {
+        roleSecurity: true,
+        antiRoleAbuse: true,
+        webhookSecurity: true,
+        antiSpam: true,
+        logging: true,
+        raidDetection: false,
+        autoLockdown: false,
+        antiNukeSystem: true,
+        trustRisk: false
+    },
+    thresholds: {
+        roleRiskScoreThreshold: 12,
+        roleSpamThreshold: 4,
+        webhookSpikeThreshold: 3,
+        webhookSpamThreshold: 15,
+        webhookRepeatThreshold: 4,
+        webhookMentionThreshold: 3,
+        webhookUsageWindowMs: 20000
+    },
+    sensitivity: {
+        antiSpam: 'medium'
+    },
+    logCategories: {
+        security: true,
+        moderation: true,
+        role_logs: true,
+        webhook_logs: true,
+        message_logs: true,
+        channel_logs: true,
+        raid_logs: true,
+        system: true
+    },
     
     // Anti-nuke settings
     antinuke: {
@@ -145,16 +178,105 @@ async function scheduleWhitelistWrite() {
     }, WRITE_DEBOUNCE_MS);
 }
 
+function mergeConfig(defaults, override) {
+    return {
+        ...defaults,
+        ...override,
+        modules: {
+            ...defaults.modules,
+            ...(override.modules || {})
+        },
+        thresholds: {
+            ...defaults.thresholds,
+            ...(override.thresholds || {})
+        },
+        sensitivity: {
+            ...defaults.sensitivity,
+            ...(override.sensitivity || {})
+        },
+        logCategories: {
+            ...defaults.logCategories,
+            ...(override.logCategories || {})
+        },
+        antinuke: {
+            ...defaults.antinuke,
+            ...(override.antinuke || {})
+        },
+        antiraid: {
+            ...defaults.antiraid,
+            ...(override.antiraid || {})
+        },
+        roleProtection: {
+            ...defaults.roleProtection,
+            ...(override.roleProtection || {})
+        },
+        webhookProtection: {
+            ...defaults.webhookProtection,
+            ...(override.webhookProtection || {})
+        },
+        spam: {
+            ...defaults.spam,
+            ...(override.spam || {})
+        }
+    };
+}
+
 async function get(guildId) {
-    const config = configCache[guildId];
-    if (config) return { ...DEFAULT_CONFIG, ...config };
-    return { ...DEFAULT_CONFIG };
+    const config = configCache[guildId] || {};
+    return mergeConfig(DEFAULT_CONFIG, config);
 }
 
 async function update(guildId, partial) {
     const current = await get(guildId);
-    configCache[guildId] = { ...current, ...partial };
+    configCache[guildId] = mergeConfig(current, partial);
     await scheduleWrite();
+}
+
+async function setModuleEnabled(guildId, moduleName, enabled) {
+    const current = await get(guildId);
+    configCache[guildId] = mergeConfig(current, { modules: { [moduleName]: enabled } });
+    await scheduleWrite();
+}
+
+async function setModuleParameter(guildId, moduleName, parameter, value) {
+    const current = await get(guildId);
+    const updatePayload = {};
+
+    if (moduleName === 'antiSpam') {
+        if (parameter === 'sensitivity') {
+            updatePayload.sensitivity = { antiSpam: value };
+        } else if (parameter in current.spam) {
+            updatePayload.spam = { [parameter]: value };
+        } else if (parameter in current.thresholds) {
+            updatePayload.thresholds = { [parameter]: value };
+        } else {
+            updatePayload[parameter] = value;
+        }
+    } else if (moduleName === 'antiNukeSystem' && parameter in current.antinuke) {
+        updatePayload.antinuke = { [parameter]: value };
+    } else if (moduleName === 'raidDetection' && parameter in current.antiraid) {
+        updatePayload.antiraid = { [parameter]: value };
+    } else if (moduleName === 'autoLockdown' && parameter in current.antiraid) {
+        updatePayload.antiraid = { [parameter]: value };
+    } else if (moduleName === 'roleSecurity' && parameter in current.roleProtection) {
+        updatePayload.roleProtection = { [parameter]: value };
+    } else if (moduleName === 'webhookSecurity' && parameter in current.webhookProtection) {
+        updatePayload.webhookProtection = { [parameter]: value };
+    } else if (moduleName === 'logging' && parameter in current.logCategories) {
+        updatePayload.logCategories = { [parameter]: value };
+    } else if (parameter in current.thresholds) {
+        updatePayload.thresholds = { [parameter]: value };
+    } else {
+        updatePayload[parameter] = value;
+    }
+
+    configCache[guildId] = mergeConfig(current, updatePayload);
+    await scheduleWrite();
+}
+
+async function getEnabledModules(guildId) {
+    const current = await get(guildId);
+    return current.modules;
 }
 
 async function getWhitelist(guildId) {
@@ -207,6 +329,9 @@ load().catch(console.error);
 module.exports = {
     get,
     update,
+    setModuleEnabled,
+    setModuleParameter,
+    getEnabledModules,
     getWhitelist,
     updateWhitelist,
     isWhitelisted,
