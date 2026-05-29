@@ -48,6 +48,36 @@ function getChannelLabel(channel) {
   return channel.name ? `${channel.name} (${channel.id})` : `${channel.id}`;
 }
 
+function addEmbedFieldWithChunks(embed, name, text) {
+  const maxLength = 1024;
+  if (text.length <= maxLength) {
+    embed.addFields({ name, value: text });
+    return;
+  }
+
+  const paragraphs = text.split('\n\n');
+  let current = '';
+  let part = 0;
+
+  paragraphs.forEach((paragraph) => {
+    const paragraphText = paragraph.length > maxLength ? `${paragraph.slice(0, maxLength - 3)}...` : paragraph;
+    const nextLength = current.length ? current.length + 2 + paragraphText.length : paragraphText.length;
+
+    if (nextLength > maxLength) {
+      embed.addFields({ name: part === 0 ? name : `${name} (cont.)`, value: current });
+      part += 1;
+      current = paragraphText;
+      return;
+    }
+
+    current = current.length ? `${current}\n\n${paragraphText}` : paragraphText;
+  });
+
+  if (current) {
+    embed.addFields({ name: part === 0 ? name : `${name} (cont.)`, value: current });
+  }
+}
+
 function recordRoleEvent(guildId, executorId, eventType) {
   const key = `${guildId}:${executorId}`;
   let state = recentRoleEvents.get(key);
@@ -96,8 +126,9 @@ async function scanGuildRoles(guild) {
     .setColor(0xff0000)
     .setTitle('⚠️ Overpowered Roles Detected')
     .setDescription(`The server has ${overpowered.length} roles that exceed the configured risk threshold.`)
-    .addFields({ name: 'High-risk roles', value: lines.join('\n\n') })
     .setTimestamp();
+
+  addEmbedFieldWithChunks(embed, 'High-risk roles', lines.join('\n\n'));
 
   await logManager.sendLog(guild, 'role_logs', {
     embed,
