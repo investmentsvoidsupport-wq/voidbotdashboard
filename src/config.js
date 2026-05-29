@@ -16,6 +16,9 @@ module.exports = {
   blacklistApproverRoleId: process.env.BLACKLIST_APPROVER_ROLE_ID || null,
   blacklistRoleId: process.env.BLACKLIST_ROLE_ID || null,
   blacklistChannelId: process.env.BLACKLIST_CHANNEL_ID || null,
+  loaApproverRoleId: process.env.LOA_APPROVER_ROLE_ID || null,
+  loaRoleId: process.env.LOA_ROLE_ID || null,
+  loaChannelId: process.env.LOA_CHANNEL_ID || null,
 
   firebaseServiceAccount: process.env.FIREBASE_SERVICE_ACCOUNT,
 

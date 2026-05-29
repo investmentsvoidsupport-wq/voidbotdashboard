@@ -57,7 +57,11 @@ async function get(guildId) {
     blacklistApproverRoleId: null,
     blacklistRoleId: null,
     blacklistChannelId: null,
-    blacklistEntries: []
+    blacklistEntries: [],
+    loaApproverRoleId: null,
+    loaRoleId: null,
+    loaChannelId: null,
+    loaEntries: []
   };
 }
 

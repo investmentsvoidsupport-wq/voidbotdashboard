@@ -75,6 +75,22 @@ module.exports = {
         .addChannelOption(opt => opt.setName('channel').setDescription('Channel for blacklist panels').setRequired(false)))
     .addSubcommand(sub =>
       sub
+        .setName('loa')
+        .setDescription('Configure LOA settings')
+        .addStringOption(opt =>
+          opt.setName('action')
+            .setDescription('Action to perform')
+            .setRequired(true)
+            .addChoices(
+              { name: 'set approver role', value: 'approver' },
+              { name: 'set LOA role', value: 'role' },
+              { name: 'set channel', value: 'channel' },
+              { name: 'status', value: 'status' }
+            ))
+        .addRoleOption(opt => opt.setName('role').setDescription('Role to assign for LOA').setRequired(false))
+        .addChannelOption(opt => opt.setName('channel').setDescription('Channel for LOA panels').setRequired(false)))
+    .addSubcommand(sub =>
+      sub
         .setName('gatekeeper')
         .setDescription('Configure the gatekeeper (auto‑reply to join questions)')
         .addStringOption(opt =>
@@ -157,6 +173,36 @@ module.exports = {
         const blacklistRole = conf.blacklistRoleId ? `<@&${conf.blacklistRoleId}>` : 'Not set';
         const count = (conf.blacklistEntries || []).length;
         await safeReply(interaction, `**Blacklist config**\nApprover role: ${approverRole}\nBlacklist role: ${blacklistRole}\nStored blacklist entries: ${count}`);
+      }
+    }
+
+    else if (subcommand === 'loa') {
+      const action = interaction.options.getString('action');
+      const role = interaction.options.getRole('role');
+      const conf = await guildConfig.get(guildId);
+
+      if (action === 'approver') {
+        if (!role) return safeReply(interaction, '❌ You must specify a role to use as the LOA approver.');
+        await guildConfig.update(guildId, { loaApproverRoleId: role.id });
+        await safeReply(interaction, `✅ LOA approver role set to ${role}.`);
+      }
+      else if (action === 'role') {
+        if (!role) return safeReply(interaction, '❌ You must specify the LOA role.');
+        await guildConfig.update(guildId, { loaRoleId: role.id });
+        await safeReply(interaction, `✅ LOA role set to ${role}.`);
+      }
+      else if (action === 'channel') {
+        const channel = interaction.options.getChannel('channel');
+        if (!channel) return safeReply(interaction, '❌ You must specify a channel for LOA panels.');
+        await guildConfig.update(guildId, { loaChannelId: channel.id });
+        await safeReply(interaction, `✅ LOA approval panel channel set to ${channel}.`);
+      }
+      else if (action === 'status') {
+        const approverRole = conf.loaApproverRoleId ? `<@&${conf.loaApproverRoleId}>` : 'Not set';
+        const loaRole = conf.loaRoleId ? `<@&${conf.loaRoleId}>` : 'Not set';
+        const channel = conf.loaChannelId ? `<#${conf.loaChannelId}>` : 'Not set';
+        const count = (conf.loaEntries || []).length;
+        await safeReply(interaction, `**LOA config**\nApprover role: ${approverRole}\nLOA role: ${loaRole}\nPanel channel: ${channel}\nStored LOA entries: ${count}`);
       }
     }
 

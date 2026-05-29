@@ -19,6 +19,7 @@ const birthday = require('./commands/birthday');
 const modStats = require('./commands/modStats');
 const gameSubmit = require('./commands/gameSubmit');
 const gatekeeper = require('./commands/gatekeeper');
+const loa = require('./commands/loa');
 
 // Ticket system
 const ticketSetup = require('./commands/ticketSetup');
@@ -87,6 +88,7 @@ const commandList = [
   whitelist.data,
   logs.data,
   blacklist.data,
+  loa.data,
   fgive.data,
   fremove.data
 ].filter(cmd => cmd);
@@ -207,7 +209,7 @@ async function handleSlashCommand(interaction) {
   const commandName = interaction.commandName;
   
   // Commands that don't need deferral
-  const noDeferCommands = ['setup', 'editsetup', 'close', 'antinuke', 'security', 'lock', 'unlock', 'scan', 'whitelist', 'logs', 'blacklist'];
+  const noDeferCommands = ['setup', 'editsetup', 'close', 'antinuke', 'security', 'lock', 'unlock', 'scan', 'whitelist', 'logs', 'blacklist', 'loa'];
   
   if (!noDeferCommands.includes(commandName) && !interaction.deferred && !interaction.replied) {
     await interaction.deferReply().catch(() => {});
@@ -261,6 +263,7 @@ async function handleSlashCommand(interaction) {
     fremove: fremove.execute,
     logs: logs.execute,
     blacklist: blacklist.execute
+    , loa: loa.execute
   };
 
   const handler = handlers[commandName];
@@ -323,6 +326,10 @@ async function handleButton(interaction) {
 
   if (id.startsWith('blacklist_')) {
     await blacklist.handleButton(interaction);
+    return;
+  }
+  if (id.startsWith('loa_')) {
+    await loa.handleButton(interaction);
     return;
   }
   if (id.startsWith('setup_next_type_')) {
@@ -800,6 +807,10 @@ async function handleModalSubmit(interaction) {
 
   if (id === 'blacklist_request_modal') {
     await blacklist.handleModalSubmit(interaction);
+    return;
+  }
+  if (id === 'loa_request_modal') {
+    await loa.handleModalSubmit(interaction);
     return;
   }
 
